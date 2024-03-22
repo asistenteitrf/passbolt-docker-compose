@@ -14,7 +14,7 @@ def SecuenciaBot():
           TOMS=WebDriver()  
           if (TOMS.Open_Section()==True): #Inicio de Sección
               for indice, dato in Datos[1].iterrows():#Recorrermos Todas las OP Disponibles 
-                  if "SO #" in dato['Orden']:                       
+                  if ("SO #" in dato['Orden']) or len(dato['Orden'])>14:                       
                       logger.log_info("------------------------------------------------- START ------------------------------------------------------- ")  
                       logger.log_info(f"Índice: {indice}, Orden: {dato['Orden']}, Nombre: {dato['Nombre']}, Id: {dato['ID']}, Tel: {dato['Telefono']}, Bodega: {dato['Bodega']}")                 
                       if(TOMS.ChangeParams(dato['Bodega'])==True): #Cambio de Prametros en Casos de B2B pasa a Plateran y Viceversa                           

@@ -677,3 +677,24 @@
 2024-03-22 15:28:38,345 - INFO - ------------------------------------------------- END ------------------------------------------------------- 
 2024-03-22 15:28:55,197 - CRITICAL - Error en Inicio de Seccion ()
 2024-03-22 15:32:54,733 - CRITICAL - Error en Inicio de Seccion ()
+2024-03-22 15:37:53,132 - INFO - Seccion Iniciada
+2024-03-22 15:37:53,135 - INFO - ------------------------------------------------- START ------------------------------------------------------- 
+2024-03-22 15:37:53,135 - INFO - Índice: 0, Orden: SO #0841301094#1, Nombre: FRANCO LICCIARDI PASTORINI, Id: 49409732, Tel: 098547896, Bodega: Telemarketing
+2024-03-22 15:37:54,395 - INFO - Parámetros: Telemarketing
+2024-03-22 15:38:05,572 - WARNING - Cliente: SO #0841301094#1 no esta Activo ni Activo Pendiente
+2024-03-22 15:38:08,500 - INFO - ------------------------------------------------- START ------------------------------------------------------- 
+2024-03-22 15:38:08,501 - INFO - Índice: 1, Orden: SO #0840376772#1, Nombre: YIMMY JOSE VIELMA, Id: 65632397, Tel: 098456632, Bodega: Telemarketing
+2024-03-22 15:38:09,155 - INFO - Parámetros: Telemarketing
+2024-03-22 15:38:20,089 - INFO - Cliente YIMMY JOSE VIELMA esta Activo
+2024-03-22 15:38:31,120 - WARNING - No Existe Datos Asociados a la Orden: SO #0840376772#1
+2024-03-22 15:38:33,866 - INFO - ------------------------------------------------- START ------------------------------------------------------- 
+2024-03-22 15:38:33,867 - INFO - Índice: 2, Orden: SO #0842678720, Nombre:  RUBEN DANILO MOTA NAC, Id: 32431502, Tel: 095370706, Bodega: Telemarketing
+2024-03-22 15:38:34,562 - INFO - Parámetros: Telemarketing
+2024-03-22 15:38:46,125 - INFO - Cliente RUBEN DANILO MOTA NACEDO esta Activo
+2024-03-22 15:38:57,702 - INFO - Orden: SO #0842678720 Resultado Busqueda: SO #0842678720
+2024-03-22 15:39:02,732 - INFO - Resultado encontrado: SO #0842678720 : MO-PLATERAN Telemarketing-Storage Point-20230104-11:50:43
+2024-03-22 15:39:10,655 - INFO - Producto Toms TER4GMOTE2032GY Cantidad: 1 | Producto GA TER4GMOTE2032GY Cantidad: 1 Coinciden.
+2024-03-22 15:39:10,655 - INFO - Coinciden TOMS y GA para OrdenSO #0842678720
+2024-03-22 15:39:14,214 - INFO - ------------------------------------------------- START ------------------------------------------------------- 
+2024-03-22 15:39:14,215 - INFO - Índice: 3, Orden: SO #0841301090#1, Nombre: MARIA FERNANDA FERNANDEZ SAN MARTIN, Id: 51555802, Tel: 093654789, Bodega: Telemarketing
+2024-03-22 15:39:15,414 - INFO - Parámetros: Telemarketing
