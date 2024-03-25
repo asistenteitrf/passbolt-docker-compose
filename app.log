@@ -1111,3 +1111,149 @@
 2024-03-25 12:47:49,626 - INFO - ------------------------------------------------- START ------------------------------------------------------- 
 2024-03-25 12:47:49,626 - INFO - Índice: 2, Orden: SO #0841598967, Nombre: MAICOL GABRIEL CORREA SILVA, Id: 52759734, Tel: 097860671, Bodega: Telemarketing
 2024-03-25 12:47:51,091 - INFO - Parámetros: Telemarketing
+2024-03-25 14:11:45,246 - INFO - Seccion Iniciada
+2024-03-25 14:11:45,247 - INFO - ------------------------------------------------- START ------------------------------------------------------- 
+2024-03-25 14:11:45,247 - INFO - Índice: 0, Orden: SO #0841598967, Nombre: MAICOL GABRIEL CORREA SILVA, Id: 52759734, Tel: 097860671, Bodega: Telemarketing
+2024-03-25 14:11:47,996 - INFO - Parámetros: Telemarketing
+2024-03-25 14:11:59,644 - INFO - Cliente MAICOL GABRIEL CORREA SILVA esta Activo
+2024-03-25 14:12:10,827 - INFO - Orden: SO #0841598967 Resultado Busqueda: Añadir Servicios SO #0841598967
+2024-03-25 14:12:15,857 - INFO - Resultado encontrado: SO #0841598967 : MO-PLATERAN Telemarketing-Storage Point-20221230-10:08:06
+2024-03-25 14:12:24,823 - INFO - Producto Toms 95USIM Cantidad: 1 | Producto GA 95USIM Cantidad: 1 Coinciden.
+2024-03-25 14:12:24,823 - INFO - Coinciden TOMS y GA para OrdenSO #0841598967
+2024-03-25 14:12:27,507 - INFO - ------------------------------------------------- START ------------------------------------------------------- 
+2024-03-25 14:12:27,507 - INFO - Índice: 1, Orden: SO #0842216097, Nombre: ALCIDES BARTOLOME FAGUNDEZ PERDOMO, Id: 30804595, Tel: 096439243, Bodega: Telemarketing
+2024-03-25 14:12:28,500 - INFO - Parámetros: Telemarketing
+2024-03-25 14:12:40,080 - INFO - Cliente ALCIDES BARTOLOME FAGUNDEZ PERDOMO esta Activo
+2024-03-25 14:12:51,768 - INFO - Orden: SO #0842216097 Resultado Busqueda: Añadir Servicios SO #0842216097
+2024-03-25 14:12:56,951 - INFO - Resultado encontrado: SO #0842216097 : MO-PLATERAN Telemarketing-Storage Point-20230102-14:04:32
+2024-03-25 14:13:05,228 - INFO - Producto Toms 95USIM Cantidad: 1 | Producto GA 95USIM Cantidad: 1 Coinciden.
+2024-03-25 14:13:05,260 - INFO - Producto Toms TER4GXIARD932GN Cantidad: 1 | Producto GA TER4GXIARD932GN Cantidad: 1 Coinciden.
+2024-03-25 14:13:05,260 - INFO - Coinciden TOMS y GA para OrdenSO #0842216097
+2024-03-25 14:13:09,318 - INFO - ------------------------------------------------- START ------------------------------------------------------- 
+2024-03-25 14:13:09,319 - INFO - Índice: 2, Orden: SO #0843015180, Nombre: BEATRIZ AVILA GUERRA, Id: 17930143, Tel: 094902108, Bodega: Telemarketing
+2024-03-25 14:13:10,246 - INFO - Parámetros: Telemarketing
+2024-03-25 14:13:21,641 - INFO - Cliente BEATRIZ AVILA GUERRA esta Activo
+2024-03-25 14:13:33,584 - INFO - Orden: SO #0843015180 Resultado Busqueda: Añadir Servicios SO #0843015180
+2024-03-25 14:13:38,623 - INFO - Resultado encontrado: SO #0843015180 : MO-PLATERAN Telemarketing-Storage Point-20230103-19:01:23
+2024-03-25 14:13:46,499 - INFO - Producto Toms 95USIM Cantidad: 1 | Producto GA 95USIM Cantidad: 1 Coinciden.
+2024-03-25 14:13:46,499 - INFO - Coinciden TOMS y GA para OrdenSO #0843015180
+2024-03-25 14:13:49,455 - INFO - ------------------------------------------------- START ------------------------------------------------------- 
+2024-03-25 14:13:49,455 - INFO - Índice: 3, Orden: SO #0842248814, Nombre: GUSTAVO JAVIER LLAMBI GRIN, Id: 20080975, Tel: 094091084, Bodega: Telemarketing
+2024-03-25 14:13:50,419 - INFO - Parámetros: Telemarketing
+2024-03-25 14:14:01,742 - INFO - Cliente GUSTAVO JAVIER LLAMBI GRIN esta Activo
+2024-03-25 14:14:13,383 - INFO - Orden: SO #0842248814 Resultado Busqueda: Añadir Servicios SO #0842248814
+2024-03-25 14:14:18,420 - INFO - Resultado encontrado: SO #0842248814 : MO-PLATERAN Telemarketing-Storage Point-20221230-19:08:43
+2024-03-25 14:14:26,234 - INFO - Producto Toms 93USIM Cantidad: 1 | Producto GA 93USIM Cantidad: 1 Coinciden.
+2024-03-25 14:14:26,235 - INFO - Coinciden TOMS y GA para OrdenSO #0842248814
+2024-03-25 14:14:28,873 - INFO - ------------------------------------------------- START ------------------------------------------------------- 
+2024-03-25 14:14:28,873 - INFO - Índice: 4, Orden: SO #0842275641, Nombre:  SERGIO BERNARDO GONZALEZ GONZALEZ, Id: 19379771, Tel: 094393580, Bodega: Telemarketing
+2024-03-25 14:14:29,802 - INFO - Parámetros: Telemarketing
+2024-03-25 14:14:41,138 - INFO - Cliente SERGIO BERNARDO GONZALEZ GONZALEZ esta Activo
+2024-03-25 14:14:52,867 - INFO - Orden: SO #0842275641 Resultado Busqueda: Añadir Servicios SO #0842275641
+2024-03-25 14:14:57,897 - INFO - Resultado encontrado: SO #0842275641 : MO-PLATERAN Telemarketing-Storage Point-20230103-20:47:06
+2024-03-25 14:15:05,847 - INFO - Producto Toms 93USIM Cantidad: 1 | Producto GA 93USIM Cantidad: 1 Coinciden.
+2024-03-25 14:15:05,847 - INFO - Coinciden TOMS y GA para OrdenSO #0842275641
+2024-03-25 14:15:08,487 - INFO - ------------------------------------------------- END ------------------------------------------------------- 
+2024-03-25 14:15:29,535 - INFO - Seccion Iniciada
+2024-03-25 14:15:29,536 - INFO - ------------------------------------------------- START ------------------------------------------------------- 
+2024-03-25 14:15:29,536 - INFO - Índice: 0, Orden: SO #0842275097, Nombre: MARTIN IGNACIO RACALBUTO, Id: 47161241, Tel: 094314908, Bodega: Telemarketing
+2024-03-25 14:15:30,773 - INFO - Parámetros: Telemarketing
+2024-03-25 14:15:43,323 - INFO - Cliente MARTIN IGNACIO RACALBUTO esta Activo
+2024-03-25 14:15:55,121 - INFO - Orden: SO #0842275097 Resultado Busqueda: Añadir Servicios SO #0842275097
+2024-03-25 14:16:00,147 - INFO - Resultado encontrado: SO #0842275097 : MO-PLATERAN Telemarketing-Storage Point-20230103-19:39:22
+2024-03-25 14:16:07,956 - INFO - Producto Toms 93USIM Cantidad: 1 | Producto GA 93USIM Cantidad: 1 Coinciden.
+2024-03-25 14:16:07,956 - INFO - Coinciden TOMS y GA para OrdenSO #0842275097
+2024-03-25 14:16:11,008 - INFO - ------------------------------------------------- START ------------------------------------------------------- 
+2024-03-25 14:16:11,008 - INFO - Índice: 1, Orden: SO #0841599385, Nombre: PABLO JAVIER MACHADO SEGOVIA, Id: 54027202, Tel: 098128637, Bodega: Telemarketing
+2024-03-25 14:16:11,929 - INFO - Parámetros: Telemarketing
+2024-03-25 14:16:23,199 - INFO - Cliente PABLO JAVIER MACHADO SEGOVIA esta Activo
+2024-03-25 14:16:34,968 - INFO - Orden: SO #0841599385 Resultado Busqueda: Añadir Servicios SO #0841599385
+2024-03-25 14:16:39,998 - INFO - Resultado encontrado: SO #0841599385 : MO-PLATERAN Telemarketing-Storage Point-20221230-10:23:08
+2024-03-25 14:16:47,911 - INFO - Producto Toms TER4GMOTG2212BK Cantidad: 1 | Producto GA TER4GMOTG2212BK Cantidad: 1 Coinciden.
+2024-03-25 14:16:47,948 - INFO - Producto Toms 95USIM Cantidad: 1 | Producto GA 95USIM Cantidad: 1 Coinciden.
+2024-03-25 14:16:47,948 - INFO - Coinciden TOMS y GA para OrdenSO #0841599385
+2024-03-25 14:16:50,709 - INFO - ------------------------------------------------- START ------------------------------------------------------- 
+2024-03-25 14:16:50,709 - INFO - Índice: 2, Orden: SO #0842760414, Nombre: DORA YANET RODRIGUEZ FIGUEREDO, Id: 25107885, Tel: 094056560, Bodega: Telemarketing
+2024-03-25 14:16:51,664 - INFO - Parámetros: Telemarketing
+2024-03-25 14:17:02,949 - INFO - Cliente DORA YANET RODRIGUEZ FIGUEREDO esta Activo
+2024-03-25 14:17:14,307 - INFO - Orden: SO #0842760414 Resultado Busqueda: SO #0842760414
+2024-03-25 14:17:19,334 - INFO - Resultado encontrado: SO #0842760414 : MO-PLATERAN Telemarketing-Storage Point-20230102-16:30:20
+2024-03-25 14:17:27,367 - INFO - Producto Toms TER4GMOTE3264GY Cantidad: 1 | Producto GA TER4GMOTE3264GY Cantidad: 1 Coinciden.
+2024-03-25 14:17:27,367 - INFO - Coinciden TOMS y GA para OrdenSO #0842760414
+2024-03-25 14:17:30,224 - INFO - ------------------------------------------------- START ------------------------------------------------------- 
+2024-03-25 14:17:30,225 - INFO - Índice: 3, Orden: SO #0841513972, Nombre: MARIA DEL CARMEN VIGNOLA DOMENICHELLI, Id: 12354665, Tel: 094011838, Bodega: Telemarketing
+2024-03-25 14:17:32,395 - INFO - Parámetros: Telemarketing
+2024-03-25 14:17:44,100 - INFO - Cliente MARIA DEL CARMEN VIGNOLA DOMENICHELLI esta Activo
+2024-03-25 14:17:56,798 - INFO - Orden: SO #0841513972 Resultado Busqueda: Añadir Servicios SO #0841513972
+2024-03-25 14:18:01,832 - INFO - Resultado encontrado: SO #0841513972 : MO-PLATERAN Telemarketing-Storage Point-20221230-19:42:36
+2024-03-25 14:18:09,669 - INFO - Producto Toms 93USIM Cantidad: 1 | Producto GA 93USIM Cantidad: 1 Coinciden.
+2024-03-25 14:18:09,669 - INFO - Coinciden TOMS y GA para OrdenSO #0841513972
+2024-03-25 14:18:20,334 - INFO - ------------------------------------------------- START ------------------------------------------------------- 
+2024-03-25 14:18:20,334 - INFO - Índice: 4, Orden: SO #0842068467, Nombre: Otilio Aquino Morris Rondon, Id: 63979777, Tel: 097636868, Bodega: Telemarketing
+2024-03-25 14:18:23,508 - INFO - Parámetros: Telemarketing
+2024-03-25 14:18:34,882 - INFO - Cliente OTILIO AQUINO MORRIS RONDON esta Activo
+2024-03-25 14:18:46,115 - INFO - Orden: SO #0842068467 Resultado Busqueda: Añadir Servicios SO #0842068467
+2024-03-25 14:18:51,138 - INFO - Resultado encontrado: SO #0842068467 : MO-PLATERAN Telemarketing-Storage Point-20230102-10:07:03
+2024-03-25 14:18:59,361 - INFO - Producto Toms 95USIM Cantidad: 1 | Producto GA 95USIM Cantidad: 1 Coinciden.
+2024-03-25 14:18:59,362 - INFO - Coinciden TOMS y GA para OrdenSO #0842068467
+2024-03-25 14:19:02,082 - INFO - ------------------------------------------------- END ------------------------------------------------------- 
+2024-03-25 14:19:19,961 - INFO - Seccion Iniciada
+2024-03-25 14:19:19,962 - INFO - ------------------------------------------------- START ------------------------------------------------------- 
+2024-03-25 14:19:19,962 - INFO - Índice: 0, Orden: SO #0842245892, Nombre: ROSADO LARROSA YICEL, Id: 40291320, Tel: 094142373, Bodega: Telemarketing
+2024-03-25 14:19:21,705 - INFO - Parámetros: Telemarketing
+2024-03-25 14:19:33,444 - INFO - Cliente ROSADO LARROSA YICEL esta Activo
+2024-03-25 14:19:44,713 - INFO - Orden: SO #0842245892 Resultado Busqueda: SO #0842245892
+2024-03-25 14:19:49,740 - INFO - Resultado encontrado: SO #0842245892 : MO-PLATERAN Telemarketing-Storage Point-20221230-17:02:34
+2024-03-25 14:19:57,495 - INFO - Producto Toms TER4GXIARD932GN Cantidad: 1 | Producto GA TER4GXIARD932GN Cantidad: 1 Coinciden.
+2024-03-25 14:19:57,495 - INFO - Coinciden TOMS y GA para OrdenSO #0842245892
+2024-03-25 14:20:00,469 - INFO - ------------------------------------------------- START ------------------------------------------------------- 
+2024-03-25 14:20:00,470 - INFO - Índice: 1, Orden: SO #0841801121, Nombre: EUSEBIA OLIVERA OLIVERA, Id: 18913413, Tel: 095037057, Bodega: Telemarketing
+2024-03-25 14:20:01,394 - INFO - Parámetros: Telemarketing
+2024-03-25 14:20:12,943 - INFO - Cliente EUSEBIA OLIVERA OLIVERA esta Activo
+2024-03-25 14:20:24,699 - INFO - Orden: SO #0841801121 Resultado Busqueda: SO #0841801121
+2024-03-25 14:20:29,722 - INFO - Resultado encontrado: SO #0841801121 : MO-PLATERAN Telemarketing-Storage Point-20221230-10:45:12
+2024-03-25 14:20:37,461 - INFO - Producto Toms TER4GMOTE3264GY Cantidad: 1 | Producto GA TER4GMOTE3264GY Cantidad: 1 Coinciden.
+2024-03-25 14:20:37,462 - INFO - Coinciden TOMS y GA para OrdenSO #0841801121
+2024-03-25 14:20:40,120 - INFO - ------------------------------------------------- START ------------------------------------------------------- 
+2024-03-25 14:20:40,121 - INFO - Índice: 2, Orden: SO #0842470043, Nombre:  SONIA IRULDE CASTRO MENDEZ, Id: 39710470, Tel: 095290640, Bodega: Telemarketing
+2024-03-25 14:20:41,049 - INFO - Parámetros: Telemarketing
+2024-03-25 14:20:52,650 - INFO - Cliente SONIA IRULDE CASTRO MENDEZ esta Activo
+2024-03-25 14:21:04,454 - INFO - Orden: SO #0842470043 Resultado Busqueda: SO #0842470043
+2024-03-25 14:24:29,356 - CRITICAL - Ocurrio un Error a la Hora de Buscar el resultado de la Orden SO #0842470043
+2024-03-25 14:25:07,063 - INFO - ------------------------------------------------- START ------------------------------------------------------- 
+2024-03-25 14:25:07,064 - INFO - Índice: 3, Orden: SO #0843005626, Nombre: ZULLY LILIAN SILVA BROCAL, Id: 30509505, Tel: 098294558, Bodega: Telemarketing
+2024-03-25 14:25:08,039 - INFO - Parámetros: Telemarketing
+2024-03-25 14:25:19,537 - INFO - Cliente Sra Zully Lilian Silva Brocal esta Activo
+2024-03-25 14:25:31,351 - INFO - Orden: SO #0843005626 Resultado Busqueda: Añadir Servicios SO #0843005626
+2024-03-25 14:25:36,391 - INFO - Resultado encontrado: SO #0843005626 : MO-PLATERAN Telemarketing-Storage Point-20230102-18:07:52
+2024-03-25 14:25:44,186 - INFO - Producto Toms 93USIM Cantidad: 1 | Producto GA 93USIM Cantidad: 1 Coinciden.
+2024-03-25 14:25:44,219 - INFO - Producto Toms TER4GZTEA31LIGY Cantidad: 1 | Producto GA TER4GZTEA31LIGY Cantidad: 1 Coinciden.
+2024-03-25 14:25:44,219 - INFO - Coinciden TOMS y GA para OrdenSO #0843005626
+2024-03-25 14:25:47,448 - INFO - ------------------------------------------------- START ------------------------------------------------------- 
+2024-03-25 14:25:47,449 - INFO - Índice: 4, Orden: SO #0840015169, Nombre: MIRTHA DANIELA GOMEZ RODRIGUEZ, Id: 44641474, Tel: 092294795, Bodega: Telemarketing
+2024-03-25 14:25:48,390 - INFO - Parámetros: Telemarketing
+2024-03-25 14:25:59,915 - INFO - Cliente Sra MIRTHA DANIELA GOMEZ RODRIGUEZ esta Activo
+2024-03-25 14:26:11,572 - INFO - Orden: SO #0840015169 Resultado Busqueda: Añadir Servicios SO #0840015169
+2024-03-25 14:26:16,610 - INFO - Resultado encontrado: SO #0840015169 : MO-PLATERAN Telemarketing-Storage Point-20221223-12:58:19
+2024-03-25 14:26:24,418 - INFO - Producto Toms TER4GZTEA31LIGY Cantidad: 1 | Producto GA TER4GZTEA31LIGY Cantidad: 1 Coinciden.
+2024-03-25 14:26:24,418 - INFO - Coinciden TOMS y GA para OrdenSO #0840015169
+2024-03-25 14:26:27,106 - INFO - ------------------------------------------------- END ------------------------------------------------------- 
+2024-03-25 14:26:46,023 - INFO - Seccion Iniciada
+2024-03-25 14:26:46,024 - INFO - ------------------------------------------------- START ------------------------------------------------------- 
+2024-03-25 14:26:46,024 - INFO - Índice: 0, Orden: SO #0842470043, Nombre:  SONIA IRULDE CASTRO MENDEZ, Id: 39710470, Tel: 095290640, Bodega: Telemarketing
+2024-03-25 14:26:48,248 - INFO - Parámetros: Telemarketing
+2024-03-25 14:27:00,579 - INFO - Cliente SONIA IRULDE CASTRO MENDEZ esta Activo
+2024-03-25 14:27:11,916 - INFO - Orden: SO #0842470043 Resultado Busqueda: SO #0842470043
+2024-03-25 14:30:36,828 - CRITICAL - Ocurrio un Error a la Hora de Buscar el resultado de la Orden SO #0842470043
+2024-03-25 14:30:39,563 - INFO - ------------------------------------------------- START ------------------------------------------------------- 
+2024-03-25 14:30:39,563 - INFO - Índice: 1, Orden: SO #0842657423, Nombre:  GERARDO ANTONIO MALANGA MANGANESI, Id: 14782199, Tel: 094223381, Bodega: Telemarketing
+2024-03-25 14:30:40,581 - INFO - Parámetros: Telemarketing
+2024-03-25 14:30:52,189 - INFO - Cliente GERARDO ANTONIO MALANGA MANGANESI esta Activo
+2024-03-25 14:31:04,557 - INFO - Orden: SO #0842657423 Resultado Busqueda: Añadir Servicios SO #0842657423
+2024-03-25 14:31:09,587 - INFO - Resultado encontrado: SO #0842657423 : MO-PLATERAN Telemarketing-Storage Point-20230102-09:59:44
+2024-03-25 15:11:58,226 - INFO - Seccion Iniciada
+2024-03-25 15:11:58,227 - INFO - ------------------------------------------------- START ------------------------------------------------------- 
+2024-03-25 15:11:58,227 - INFO - Índice: 0, Orden: SO #0842657423, Nombre:  GERARDO ANTONIO MALANGA MANGANESI, Id: 14782199, Tel: 094223381, Bodega: Telemarketing
+2024-03-25 15:11:59,410 - INFO - Parámetros: Telemarketing
+2024-03-25 15:12:11,351 - INFO - Cliente GERARDO ANTONIO MALANGA MANGANESI esta Activo
+2024-03-25 15:12:23,794 - INFO - Orden: SO #0842657423 Resultado Busqueda: Añadir Servicios SO #0842657423
