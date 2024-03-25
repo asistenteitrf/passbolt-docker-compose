@@ -1,15 +1,7 @@
-from dotenv import load_dotenv
 import os
-import logging
-import datetime
-import logging
-import logging.config 
-import json
+from dotenv import load_dotenv
+from utils.Class_Log import LogManager 
 from utils.Class_ODBC import ClassMySQL
-from utils.Class_Log import LogManager  
-
-
-
  
 load_dotenv()
  
@@ -17,13 +9,11 @@ IP = os.environ['IP']
 PORT = os.environ['PORT']
 KEY_ID= os.environ['KEYID']
 USER= os.environ['USER_MAIL']
-
-
 BASE_URL = f'https://{IP}:{PORT}/'
 
 #Folder To Save Sreenshot
 ScreenShot_Path=os.environ['SCREENSHOTFOLDER']
-
+LogsFile_Path=os.environ['DATA_LOGGS']
 
 # temp USer
 UserToms=os.environ['ValUser'] 
@@ -31,15 +21,13 @@ PassToms=os.environ['ValPass']
 
 #BOT A EJECUTAR
 BotToExecute=os.environ['VALIDADOS']
-XX=os.environ['SERIES1'] 
-xx=os.environ['SERIES2']
-xx=os.environ['ACTIVACION']
-xx=os.environ['CONTRATO']
 
 B2B = "PLATERAN B2B - Comercial"
 TELEMARKETING= "PLATERAN Telemarketing"
 
 Proceso= 'VALIDADOS'
+
+TIMES_SLEEP = 180
 
 #-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ADFS=[#FLUJO DE ELEMENTOS WEB DE TOMS Y FUNCIONES[ACCION,RUTA DEL ELEMENTO XPHAT,"DESCRIPCION DEL ELEMENTO WEB"] EN LA POSICION 0=[0-URL,1-HACER CLICK CON WAITH EXPLICITI,2-TEXT BOX A LLENAR,3-FUNCIONES]

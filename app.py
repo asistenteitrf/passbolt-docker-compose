@@ -1,12 +1,10 @@
 #---------------------------------------------------------------
-#       bOt VERIFICACION DE SERIES Y PRODUCTOS
+#       BOT VERIFICACION DE SERIES Y PRODUCTOS
 #---------------------------------------------------------------
-from selenium.webdriver.common.by import By
-from selenium.webdriver.support import expected_conditions as EC
-from utils.Class_WebDriver import WebDriver
-
 from config import *
-import json
+from utils.Class_WebDriver import WebDriver
+from selenium.webdriver.support import expected_conditions as EC
+
 #--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 def SecuenciaBot():      
      Datos = CNX.GET_OP_LIST(Proceso)  #
@@ -14,7 +12,7 @@ def SecuenciaBot():
           TOMS=WebDriver()  
           if (TOMS.Open_Section()==True): #Inicio de Sección
               for indice, dato in Datos[1].iterrows():#Recorrermos Todas las OP Disponibles 
-                  if ("SO #" in dato['Orden']) or len(dato['Orden'])>14:                       
+                  if ("SO #" in dato['Orden']) or len(dato['Orden'])>14:  #VERIFICAMOS SI LA OP NO TIENE SO# O TIENE AL FINAL UN #1 NO SE PROCESA              
                       logger.log_info("------------------------------------------------- START ------------------------------------------------------- ")  
                       logger.log_info(f"Índice: {indice}, Orden: {dato['Orden']}, Nombre: {dato['Nombre']}, Id: {dato['ID']}, Tel: {dato['Telefono']}, Bodega: {dato['Bodega']}")                 
                       if(TOMS.ChangeParams(dato['Bodega'])==True): #Cambio de Prametros en Casos de B2B pasa a Plateran y Viceversa                           
@@ -29,7 +27,7 @@ def SecuenciaBot():
               logger.log_info("------------------------------------------------- END ------------------------------------------------------- ") 
               TOMS.Close()                         
      else:
-          logging.info("Sin Registros")
+          logger.log_info("Sin Registros")
              
     
     

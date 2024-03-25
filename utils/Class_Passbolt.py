@@ -1,10 +1,11 @@
-import httpx
-from pprint import pprint
-import json
-from urllib.parse import unquote
-import gnupg
-from config import BASE_URL
 
+import json
+import gnupg
+import httpx
+
+from pprint import pprint
+from config import BASE_URL
+from urllib.parse import unquote
 
 
 class PassboltAPI:

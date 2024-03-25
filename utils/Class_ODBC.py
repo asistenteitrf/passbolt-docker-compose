@@ -1,12 +1,10 @@
-
-import pandas as pd
-import json
 import os
-from config import *
+import json
 import pyodbc
-from datetime import date
-import time
-from flask import Blueprint, render_template, request, redirect, url_for,flash,jsonify
+import pandas as pd
+
+from config import *
+
 insertobjets=[]
 class ClassMySQL:
     def insert_into_query(self,table, columns, values):

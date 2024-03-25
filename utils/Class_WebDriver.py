@@ -1,14 +1,11 @@
 import os
 import time
-import pyodbc
-import logging
-import datetime
-import threading
-import pandas as pd 
+
 from app import *
 from config import *
 
 from utils.Class_Passbolt import *
+
 from selenium import webdriver
 from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.common.by import By
@@ -17,8 +14,7 @@ from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver.chrome.service import Service as ChromeService
-
-class WebDriver():#CLASE QUE MANIPULA LOS ELEMENTOS WEB Y FUNCIONES
+class WebDriver(): #CLASE QUE MANIPULA LOS ELEMENTOS WEB Y FUNCIONES
 #------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
     #CONTRUCTOR DEL NAVEGADOR
     def __init__(self) -> None:
@@ -34,8 +30,8 @@ class WebDriver():#CLASE QUE MANIPULA LOS ELEMENTOS WEB Y FUNCIONES
     def GetDriver(self,elemt):
         driver.get(elemt[1])  
 #------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-    #MÉTODO QUE HACE CLICK EN UN ELEMENTO CON UN WAITHEXPLICITI A ENCONTRAR UN ELEMENTO HASTA QUE SEA CLICLEABLE
-    def Click(self,elemt):#SELENIUM LLENAR UN TEXT BOX     
+    #MÉTODO QUE HACE CLICK EN UN ELEMENTO 
+    def Click(self,elemt):     
          self.Implicit_Waith(elemt[1])
          driver.find_element(By.XPATH,elemt[1]).click()
 #------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -51,7 +47,7 @@ class WebDriver():#CLASE QUE MANIPULA LOS ELEMENTOS WEB Y FUNCIONES
         return driver.find_element(By.XPATH , elemt[1]).text 
 #------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
     #MÉTODO ENCARGADO DE LLENAR UN TEXTBOX COMO PARÉMETROS SE LE ENVÍA EL TEXTBOX Y EL TEXTO QUE DEBE LLENAR
-    def Fill_Text_Box(self,textbox,texto):#SELENIUM LLENAR UN TEXT BOX
+    def Fill_Text_Box(self,textbox,texto): 
         self.Implicit_Waith(textbox[1])              
         driver.find_element(By.XPATH,textbox[1]).clear()
         for texto in texto:
@@ -59,8 +55,8 @@ class WebDriver():#CLASE QUE MANIPULA LOS ELEMENTOS WEB Y FUNCIONES
                time.sleep(0.03)          
 #------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
     #IMPLICITYWAITH DE 180 SEGUNDOS QUE SI QUIERES CONFIGURAR MAS SEGUNDOS EN CONFIG LA VARIEBLE TIMESLEEP
-    def Implicit_Waith(self,element):#SE LE HACE UN WAITH IMPLICITI A LOS ELEMENTOS WEB 
-               wait = WebDriverWait(driver, 180)
+    def Implicit_Waith(self,element): 
+               wait = WebDriverWait(driver, TIMES_SLEEP)
                wait.until(EC.presence_of_element_located((By.XPATH, element)))   
 #------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
     #DEBUELVE LA CANTIDAD DE FILAS DE UNA TABLA
@@ -68,7 +64,7 @@ class WebDriver():#CLASE QUE MANIPULA LOS ELEMENTOS WEB Y FUNCIONES
         time.sleep(2)         
         return len(driver.find_elements(By.XPATH , table[1]))
 #------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------      
-    #SCREENSHOT EL PARÁMETRO QUE SE LE ENVIA EN EL NÚMERO DE ORDEN
+    #SCREENSHOT: EL PARÁMETRO QUE SE LE ENVIA EN EL NÚMERO DE ORDEN
     def Screenshot(self,name):
         driver.save_screenshot(os.getcwd()+ ScreenShot_Path +str(name)+".png")       
 #------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------               
