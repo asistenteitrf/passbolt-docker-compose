@@ -698,3 +698,7 @@
 2024-03-22 15:39:14,214 - INFO - ------------------------------------------------- START ------------------------------------------------------- 
 2024-03-22 15:39:14,215 - INFO - Índice: 3, Orden: SO #0841301090#1, Nombre: MARIA FERNANDA FERNANDEZ SAN MARTIN, Id: 51555802, Tel: 093654789, Bodega: Telemarketing
 2024-03-22 15:39:15,414 - INFO - Parámetros: Telemarketing
+2024-03-22 15:39:26,526 - WARNING - Cliente: SO #0841301090#1 no esta Activo ni Activo Pendiente
+2024-03-22 15:39:29,436 - INFO - ------------------------------------------------- START ------------------------------------------------------- 
+2024-03-22 15:39:29,437 - INFO - Índice: 4, Orden: SO #0843020465, Nombre: OSCAR GABRIEL DE LOS SANTOS GASCON, Id: 20172342, Tel: 096450932, Bodega: Telemarketing
+2024-03-22 15:39:30,193 - INFO - Parámetros: Telemarketing
