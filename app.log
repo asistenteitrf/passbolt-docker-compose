@@ -1360,3 +1360,35 @@
 2024-03-26 11:22:49,240 - INFO - Parámetros: Telemarketing
 2024-03-26 11:23:00,107 - INFO - Cliente KARELIA HERNANDEZ LEZCANO esta Activo
 2024-03-26 11:23:03,422 - INFO - ------------------------------------------------- END ------------------------------------------------------- 
+2024-03-26 12:07:10,508 - INFO - Seccion Iniciada
+2024-03-26 12:07:10,510 - INFO - ------------------------------------------------- START ------------------------------------------------------- 
+2024-03-26 12:07:10,511 - INFO - Índice: 0, Orden: SO #0842986433, Nombre: SILVANA BEATRIZ SCHIPANI ODONE, Id: 18067422, Tel: 094474305, Bodega: Telemarketing
+2024-03-26 12:07:11,739 - INFO - Parámetros: Telemarketing
+2024-03-26 12:12:16,683 - INFO - Seccion Iniciada
+2024-03-26 12:12:16,685 - INFO - ------------------------------------------------- START ------------------------------------------------------- 
+2024-03-26 12:12:16,686 - INFO - Índice: 0, Orden: SO #0843252636, Nombre: Luz Marina Cena Tabarez, Id: 17602889, Tel: 094456971, Bodega: Telemarketing
+2024-03-26 12:12:17,956 - INFO - Parámetros: Telemarketing
+2024-03-26 12:12:29,775 - INFO - Cliente Luz Marina Cena Tabarez esta Activo
+2024-03-26 12:12:41,793 - INFO - Orden: SO #0843252636 Resultado Busqueda: Añadir Servicios SO #0843252636
+2024-03-26 12:12:46,834 - INFO - Resultado encontrado: SO #0843252636 : MO-PLATERAN Telemarketing-Storage Point-20230109-12:36:27
+2024-03-26 12:13:44,382 - INFO - Seccion Iniciada
+2024-03-26 12:13:44,385 - INFO - ------------------------------------------------- START ------------------------------------------------------- 
+2024-03-26 12:13:44,386 - INFO - Índice: 0, Orden: SO #0843916060, Nombre: ROSA BLANCA DUARTE MONZON, Id: 11996359, Tel: 098559742, Bodega: Telemarketing
+2024-03-26 12:13:45,760 - INFO - Parámetros: Telemarketing
+2024-03-26 12:13:57,969 - INFO - Cliente ROSA BLANCA DUARTE MONZON esta Activo
+2024-03-26 12:14:09,476 - INFO - Orden: SO #0843916060 Resultado Busqueda: Añadir Servicios SO #0843916060
+2024-03-26 12:14:14,520 - INFO - Resultado encontrado: SO #0843916060 : MO-PLATERAN Telemarketing-Storage Point-20230109-13:12:39
+2024-03-26 12:14:22,390 - INFO - Producto Toms 95USIM Cantidad: 1 | Producto GA 95USIM Cantidad: 1 Coinciden.
+2024-03-26 12:14:22,430 - INFO - Producto Toms TER4GTCL30332BK Cantidad: 1 | Producto GA TER4GTCL30332BK Cantidad: 1 Coinciden.
+2024-03-26 12:14:22,431 - INFO - Coinciden TOMS y GA para OrdenSO #0843916060
+2024-03-26 12:14:25,117 - INFO - ------------------------------------------------- START ------------------------------------------------------- 
+2024-03-26 12:14:25,118 - INFO - Índice: 1, Orden: SO #0843572421, Nombre: JOSE DARWIN RECARTE OLIVERA, Id: 46311631, Tel: 094817668, Bodega: Telemarketing
+2024-03-26 12:14:26,279 - INFO - Parámetros: Telemarketing
+2024-03-26 12:14:38,134 - INFO - Cliente JOSE DARWIN RECARTE OLIVERA esta Activo
+2024-03-26 12:14:49,555 - INFO - Orden: SO #0843572421 Resultado Busqueda: SO #0843572421
+2024-03-26 12:17:11,709 - INFO - Seccion Iniciada
+2024-03-26 12:17:11,711 - INFO - ------------------------------------------------- START ------------------------------------------------------- 
+2024-03-26 12:17:11,711 - INFO - Índice: 0, Orden: SO #0843572421, Nombre: JOSE DARWIN RECARTE OLIVERA, Id: 46311631, Tel: 094817668, Bodega: Telemarketing
+2024-03-26 12:17:13,026 - INFO - Parámetros: Telemarketing
+2024-03-26 12:17:24,838 - INFO - Cliente JOSE DARWIN RECARTE OLIVERA esta Activo
+2024-03-26 12:17:36,334 - INFO - Orden: SO #0843572421 Resultado Busqueda: SO #0843572421

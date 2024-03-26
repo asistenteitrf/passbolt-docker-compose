@@ -14,6 +14,7 @@ from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver.chrome.service import Service as ChromeService
+from selenium.webdriver.common.action_chains import ActionChains
 class WebDriver(): #CLASE QUE MANIPULA LOS ELEMENTOS WEB Y FUNCIONES
 #------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
     #CONTRUCTOR DEL NAVEGADOR
@@ -160,6 +161,7 @@ class WebDriver(): #CLASE QUE MANIPULA LOS ELEMENTOS WEB Y FUNCIONES
                            client_name=driver.find_element(By.XPATH,"//tbody/tr["+str(row+1)+"]/td[2]/div[1]/div[1]/a").text # Obtenemos el Nombre
                            client_status=driver.find_element(By.XPATH," //table/tbody/tr["+str(row+1)+"]/td[4]/div/div/div/span[2]").text   #Obtenemos el Estado
                            if (client_status=='Activo' or  client_status=='Activación pendiente') and (client_name.strip()==name_clientga.strip()):# Esta Activo                                     
+                                 
                                  self.click_when_clickable("//tbody/tr["+str(row+1)+"]/td[2]/div[1]/div[1]/a[1]")                                                                           
                                  logger.log_info("Cliente "+str(client_name)+ " esta " + str(client_status))                              
                                  return True                                              
@@ -223,8 +225,10 @@ class WebDriver(): #CLASE QUE MANIPULA LOS ELEMENTOS WEB Y FUNCIONES
         x =1
         time.sleep(5)
         while x < 100: # intentar encontrar el elemento 1 segundos, sino, continua con el código
-             try:                 
-                 orden_movimiento = self.get_text(ADFS[31])  
+             try:     
+                 # Hacer scroll hasta el final de la página
+                 driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")            
+                 orden_movimiento = self.get_text(ADFS[31])                  
                  if (orden_movimiento!="" and  ("MO-PLATERAN" in orden_movimiento)):
                      logger.log_info("Resultado encontrado: "+ str(array['Orden']) + " : " + str(orden_movimiento)) 
                      self.click_when_clickable("//tr[16]/td[4]/div/table/tbody/tr/td/div/div/a")                    
