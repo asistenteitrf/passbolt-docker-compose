@@ -153,12 +153,13 @@ class WebDriver(): #CLASE QUE MANIPULA LOS ELEMENTOS WEB Y FUNCIONES
          while x < 100: # intentar encontrar el elemento 1 segundos, sino, continua con el código
               try: 
                    rows = self.RowCount(ADFS[22]) # Obtenemos Todos los Resultados de la Tabla Cliente
-                   if rows>=2:     
+                   if rows>=2:
+                       name_clientga= str(array['Nombre'] )
                        for row in range(rows-1) : # Recorremos Todas las Filas Encontradas 
                            flags=1  
                            client_name=driver.find_element(By.XPATH,"//tbody/tr["+str(row+1)+"]/td[2]/div[1]/div[1]/a").text # Obtenemos el Nombre
                            client_status=driver.find_element(By.XPATH," //table/tbody/tr["+str(row+1)+"]/td[4]/div/div/div/span[2]").text   #Obtenemos el Estado
-                           if (client_status=='Activo' or  client_status=='Activación pendiente'):# Esta Activo     
+                           if (client_status=='Activo' or  client_status=='Activación pendiente') and (client_name.strip()==name_clientga.strip()):# Esta Activo                                     
                                  self.click_when_clickable("//tbody/tr["+str(row+1)+"]/td[2]/div[1]/div[1]/a[1]")                                                                           
                                  logger.log_info("Cliente "+str(client_name)+ " esta " + str(client_status))                              
                                  return True                                              

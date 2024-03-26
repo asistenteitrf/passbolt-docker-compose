@@ -1257,3 +1257,106 @@
 2024-03-25 15:11:59,410 - INFO - Parámetros: Telemarketing
 2024-03-25 15:12:11,351 - INFO - Cliente GERARDO ANTONIO MALANGA MANGANESI esta Activo
 2024-03-25 15:12:23,794 - INFO - Orden: SO #0842657423 Resultado Busqueda: Añadir Servicios SO #0842657423
+2024-03-26 10:52:20,293 - INFO - Seccion Iniciada
+2024-03-26 10:52:20,655 - INFO - ------------------------------------------------- END ------------------------------------------------------- 
+2024-03-26 10:52:38,195 - INFO - Seccion Iniciada
+2024-03-26 10:52:38,561 - INFO - ------------------------------------------------- END ------------------------------------------------------- 
+2024-03-26 10:52:56,501 - INFO - Seccion Iniciada
+2024-03-26 10:52:57,581 - INFO - ------------------------------------------------- END ------------------------------------------------------- 
+2024-03-26 10:53:15,879 - INFO - Seccion Iniciada
+2024-03-26 10:53:17,306 - INFO - ------------------------------------------------- END ------------------------------------------------------- 
+2024-03-26 10:55:24,272 - INFO - Seccion Iniciada
+2024-03-26 10:58:02,134 - INFO - Seccion Iniciada
+2024-03-26 10:59:17,584 - INFO - Seccion Iniciada
+2024-03-26 10:59:49,472 - INFO - Seccion Iniciada
+2024-03-26 10:59:49,475 - INFO - ------------------------------------------------- START ------------------------------------------------------- 
+2024-03-26 10:59:49,476 - INFO - Índice: 0, Orden: SO #0843871779, Nombre: CESAR GONZALO FERRO CALANDRIA, Id: 30630083, Tel: 094100599, Bodega: Telemarketing
+2024-03-26 10:59:50,726 - INFO - Parámetros: Telemarketing
+2024-03-26 11:00:03,080 - INFO - Cliente CESAR GONZALO FERRO CALANDRIA esta Activo
+2024-03-26 11:00:06,906 - INFO - ------------------------------------------------- START ------------------------------------------------------- 
+2024-03-26 11:00:06,906 - INFO - Índice: 1, Orden: SO #0843871821, Nombre: GABRIELA ESTHER MANTEGAZZA ROCHA, Id: 29626198, Tel: 093310259, Bodega: Telemarketing
+2024-03-26 11:00:07,648 - INFO - Parámetros: Telemarketing
+2024-03-26 11:00:18,567 - INFO - Cliente GABRIELA ESTHER MANTEGAZZA ROCHA esta Activo
+2024-03-26 11:00:21,875 - INFO - ------------------------------------------------- START ------------------------------------------------------- 
+2024-03-26 11:00:21,876 - INFO - Índice: 2, Orden: SO #0843679779, Nombre: Federico Martin Paula Villanti , Id: 44458891, Tel: 095918272, Bodega: Telemarketing
+2024-03-26 11:00:22,548 - INFO - Parámetros: Telemarketing
+2024-03-26 11:00:34,539 - INFO - Cliente PAULA VILLANTI FEDERICO MARTIN esta Activo
+2024-03-26 11:00:38,037 - INFO - ------------------------------------------------- START ------------------------------------------------------- 
+2024-03-26 11:00:38,038 - INFO - Índice: 3, Orden: SO #0843378077, Nombre: JUAN MANUEL CONCARI DUFRECHOU, Id: 49930713, Tel: 095551434, Bodega: Telemarketing
+2024-03-26 11:00:38,743 - INFO - Parámetros: Telemarketing
+2024-03-26 11:00:49,960 - INFO - Cliente JUAN MANUEL CONCARI DUFRECHOU esta Activo
+2024-03-26 11:00:53,214 - INFO - ------------------------------------------------- START ------------------------------------------------------- 
+2024-03-26 11:00:53,214 - INFO - Índice: 4, Orden: SO #0843381176, Nombre:  KARELIA HERNANDEZ LEZCANO, Id: 63654004, Tel: 093333235, Bodega: Telemarketing
+2024-03-26 11:00:53,891 - INFO - Parámetros: Telemarketing
+2024-03-26 11:01:04,821 - INFO - Cliente KARELIA HERNANDEZ LEZCANO esta Activo
+2024-03-26 11:01:08,179 - INFO - ------------------------------------------------- END ------------------------------------------------------- 
+2024-03-26 11:01:38,847 - INFO - Seccion Iniciada
+2024-03-26 11:01:38,850 - INFO - ------------------------------------------------- START ------------------------------------------------------- 
+2024-03-26 11:01:38,850 - INFO - Índice: 0, Orden: SO #0843871779, Nombre: CESAR GONZALO FERRO CALANDRIA, Id: 30630083, Tel: 094100599, Bodega: Telemarketing
+2024-03-26 11:01:40,031 - INFO - Parámetros: Telemarketing
+2024-03-26 11:01:53,743 - INFO - Cliente CESAR GONZALO FERRO CALANDRIA esta Activo
+2024-03-26 11:01:57,679 - INFO - ------------------------------------------------- START ------------------------------------------------------- 
+2024-03-26 11:01:57,680 - INFO - Índice: 1, Orden: SO #0843871821, Nombre: GABRIELA ESTHER MANTEGAZZA ROCHA, Id: 29626198, Tel: 093310259, Bodega: Telemarketing
+2024-03-26 11:01:58,310 - INFO - Parámetros: Telemarketing
+2024-03-26 11:02:09,465 - INFO - Cliente GABRIELA ESTHER MANTEGAZZA ROCHA esta Activo
+2024-03-26 11:02:12,791 - INFO - ------------------------------------------------- START ------------------------------------------------------- 
+2024-03-26 11:02:12,791 - INFO - Índice: 2, Orden: SO #0843679779, Nombre: Federico Martin Paula Villanti , Id: 44458891, Tel: 095918272, Bodega: Telemarketing
+2024-03-26 11:02:13,468 - INFO - Parámetros: Telemarketing
+2024-03-26 11:02:24,504 - INFO - Cliente PAULA VILLANTI FEDERICO MARTIN esta Activo
+2024-03-26 11:02:28,142 - INFO - ------------------------------------------------- START ------------------------------------------------------- 
+2024-03-26 11:02:28,142 - INFO - Índice: 3, Orden: SO #0843378077, Nombre: JUAN MANUEL CONCARI DUFRECHOU, Id: 49930713, Tel: 095551434, Bodega: Telemarketing
+2024-03-26 11:02:29,071 - INFO - Parámetros: Telemarketing
+2024-03-26 11:02:40,319 - INFO - Cliente JUAN MANUEL CONCARI DUFRECHOU esta Activo
+2024-03-26 11:02:43,650 - INFO - ------------------------------------------------- START ------------------------------------------------------- 
+2024-03-26 11:02:43,651 - INFO - Índice: 4, Orden: SO #0843381176, Nombre:  KARELIA HERNANDEZ LEZCANO, Id: 63654004, Tel: 093333235, Bodega: Telemarketing
+2024-03-26 11:02:44,242 - INFO - Parámetros: Telemarketing
+2024-03-26 11:02:55,852 - INFO - Cliente KARELIA HERNANDEZ LEZCANO esta Activo
+2024-03-26 11:02:59,164 - INFO - ------------------------------------------------- END ------------------------------------------------------- 
+2024-03-26 11:03:17,493 - INFO - Seccion Iniciada
+2024-03-26 11:03:17,494 - INFO - ------------------------------------------------- START ------------------------------------------------------- 
+2024-03-26 11:03:17,495 - INFO - Índice: 0, Orden: SO #0843871779, Nombre: CESAR GONZALO FERRO CALANDRIA, Id: 30630083, Tel: 094100599, Bodega: Telemarketing
+2024-03-26 11:03:18,664 - INFO - Parámetros: Telemarketing
+2024-03-26 11:03:30,633 - INFO - Cliente CESAR GONZALO FERRO CALANDRIA esta Activo
+2024-03-26 11:03:34,413 - INFO - ------------------------------------------------- START ------------------------------------------------------- 
+2024-03-26 11:03:34,413 - INFO - Índice: 1, Orden: SO #0843871821, Nombre: GABRIELA ESTHER MANTEGAZZA ROCHA, Id: 29626198, Tel: 093310259, Bodega: Telemarketing
+2024-03-26 11:03:35,111 - INFO - Parámetros: Telemarketing
+2024-03-26 11:03:46,041 - INFO - Cliente GABRIELA ESTHER MANTEGAZZA ROCHA esta Activo
+2024-03-26 11:03:49,463 - INFO - ------------------------------------------------- START ------------------------------------------------------- 
+2024-03-26 11:03:49,463 - INFO - Índice: 2, Orden: SO #0843679779, Nombre: Federico Martin Paula Villanti , Id: 44458891, Tel: 095918272, Bodega: Telemarketing
+2024-03-26 11:03:50,118 - INFO - Parámetros: Telemarketing
+2024-03-26 11:04:01,799 - INFO - Cliente PAULA VILLANTI FEDERICO MARTIN esta Activo
+2024-03-26 11:04:05,348 - INFO - ------------------------------------------------- START ------------------------------------------------------- 
+2024-03-26 11:04:05,348 - INFO - Índice: 3, Orden: SO #0843378077, Nombre: JUAN MANUEL CONCARI DUFRECHOU, Id: 49930713, Tel: 095551434, Bodega: Telemarketing
+2024-03-26 11:04:06,040 - INFO - Parámetros: Telemarketing
+2024-03-26 11:04:16,841 - INFO - Cliente JUAN MANUEL CONCARI DUFRECHOU esta Activo
+2024-03-26 11:04:20,469 - INFO - ------------------------------------------------- START ------------------------------------------------------- 
+2024-03-26 11:04:20,469 - INFO - Índice: 4, Orden: SO #0843381176, Nombre:  KARELIA HERNANDEZ LEZCANO, Id: 63654004, Tel: 093333235, Bodega: Telemarketing
+2024-03-26 11:04:21,146 - INFO - Parámetros: Telemarketing
+2024-03-26 11:04:32,822 - INFO - Cliente KARELIA HERNANDEZ LEZCANO esta Activo
+2024-03-26 11:04:35,755 - INFO - ------------------------------------------------- END ------------------------------------------------------- 
+2024-03-26 11:14:04,326 - INFO - Seccion Iniciada
+2024-03-26 11:14:04,330 - INFO - ------------------------------------------------- START ------------------------------------------------------- 
+2024-03-26 11:14:04,330 - INFO - Índice: 0, Orden: SO #0843871779, Nombre: CESAR GONZALO FERRO CALANDRIA, Id: 30630083, Tel: 094100599, Bodega: Telemarketing
+2024-03-26 11:14:05,521 - INFO - Parámetros: Telemarketing
+2024-03-26 11:21:36,323 - INFO - Seccion Iniciada
+2024-03-26 11:21:36,326 - INFO - ------------------------------------------------- START ------------------------------------------------------- 
+2024-03-26 11:21:36,327 - INFO - Índice: 0, Orden: SO #0843871779, Nombre: CESAR GONZALO FERRO CALANDRIA, Id: 30630083, Tel: 094100599, Bodega: Telemarketing
+2024-03-26 11:21:37,553 - INFO - Parámetros: Telemarketing
+2024-03-26 11:21:49,379 - INFO - Cliente CESAR GONZALO FERRO CALANDRIA esta Activo
+2024-03-26 11:21:53,035 - INFO - ------------------------------------------------- START ------------------------------------------------------- 
+2024-03-26 11:21:53,036 - INFO - Índice: 1, Orden: SO #0843871821, Nombre: GABRIELA ESTHER MANTEGAZZA ROCHA, Id: 29626198, Tel: 093310259, Bodega: Telemarketing
+2024-03-26 11:21:53,667 - INFO - Parámetros: Telemarketing
+2024-03-26 11:22:04,585 - INFO - Cliente GABRIELA ESTHER MANTEGAZZA ROCHA esta Activo
+2024-03-26 11:22:07,852 - INFO - ------------------------------------------------- START ------------------------------------------------------- 
+2024-03-26 11:22:07,852 - INFO - Índice: 2, Orden: SO #0843679779, Nombre: Federico Martin Paula Villanti , Id: 44458891, Tel: 095918272, Bodega: Telemarketing
+2024-03-26 11:22:08,597 - INFO - Parámetros: Telemarketing
+2024-03-26 11:22:19,445 - WARNING - Cliente: SO #0843679779 no esta Activo ni Activo Pendiente
+2024-03-26 11:22:32,790 - INFO - ------------------------------------------------- START ------------------------------------------------------- 
+2024-03-26 11:22:32,790 - INFO - Índice: 3, Orden: SO #0843378077, Nombre: JUAN MANUEL CONCARI DUFRECHOU, Id: 49930713, Tel: 095551434, Bodega: Telemarketing
+2024-03-26 11:22:33,793 - INFO - Parámetros: Telemarketing
+2024-03-26 11:22:45,279 - INFO - Cliente JUAN MANUEL CONCARI DUFRECHOU esta Activo
+2024-03-26 11:22:48,662 - INFO - ------------------------------------------------- START ------------------------------------------------------- 
+2024-03-26 11:22:48,663 - INFO - Índice: 4, Orden: SO #0843381176, Nombre:  KARELIA HERNANDEZ LEZCANO, Id: 63654004, Tel: 093333235, Bodega: Telemarketing
+2024-03-26 11:22:49,240 - INFO - Parámetros: Telemarketing
+2024-03-26 11:23:00,107 - INFO - Cliente KARELIA HERNANDEZ LEZCANO esta Activo
+2024-03-26 11:23:03,422 - INFO - ------------------------------------------------- END ------------------------------------------------------- 
