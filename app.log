@@ -1392,3 +1392,367 @@
 2024-03-26 12:17:13,026 - INFO - Parámetros: Telemarketing
 2024-03-26 12:17:24,838 - INFO - Cliente JOSE DARWIN RECARTE OLIVERA esta Activo
 2024-03-26 12:17:36,334 - INFO - Orden: SO #0843572421 Resultado Busqueda: SO #0843572421
+2024-03-26 13:45:15,200 - INFO - Seccion Iniciada
+2024-03-26 13:45:15,203 - INFO - ------------------------------------------------- START ------------------------------------------------------- 
+2024-03-26 13:45:15,203 - INFO - Índice: 0, Orden: SO #0843252230, Nombre: ROSARIO MARIA DE LOURDES CUSTODIO, Id: 35756983, Tel: 095748624, Bodega: Telemarketing
+2024-03-26 13:45:16,397 - INFO - Parámetros: Telemarketing
+2024-03-26 13:45:29,270 - INFO - Cliente ROSARIO MARIA DE LOURDES CUSTODIO esta Activo
+2024-03-26 13:45:40,785 - INFO - Orden: SO #0843252230 Resultado Busqueda: Añadir Servicios SO #0843252230
+2024-03-26 13:45:45,825 - INFO - Resultado encontrado: SO #0843252230 : MO-PLATERAN Telemarketing-Storage Point-20230109-12:29:37
+2024-03-26 13:47:42,485 - INFO - Seccion Iniciada
+2024-03-26 13:47:42,487 - INFO - ------------------------------------------------- START ------------------------------------------------------- 
+2024-03-26 13:47:42,488 - INFO - Índice: 0, Orden: SO #0843249495, Nombre: MARCELO DEARMAS RIOS, Id: 37833428, Tel: 094733848, Bodega: Telemarketing
+2024-03-26 13:47:43,708 - INFO - Parámetros: Telemarketing
+2024-03-26 13:47:55,376 - INFO - Cliente MARCELO DEARMAS RIOS esta Activo
+2024-03-26 13:48:06,832 - INFO - Orden: SO #0843249495 Resultado Busqueda: Añadir Servicios SO #0843249495
+2024-03-26 13:48:11,862 - INFO - Resultado encontrado: SO #0843249495 : MO-PLATERAN Telemarketing-Storage Point-20230109-11:46:22
+2024-03-26 13:48:18,995 - INFO - Resultado encontrado: SO #0843249495 : MO-PLATERAN Telemarketing-Storage Point-20230109-11:46:22
+2024-03-26 13:48:26,153 - INFO - Resultado encontrado: SO #0843249495 : MO-PLATERAN Telemarketing-Storage Point-20230109-11:46:22
+2024-03-26 13:48:38,144 - INFO - Producto Toms 93USIM Cantidad: 1 | Producto GA 93USIM Cantidad: 1 Coinciden.
+2024-03-26 13:48:38,183 - INFO - Producto Toms TER4GMOTE2032GY Cantidad: 1 | Producto GA TER4GMOTE2032GY Cantidad: 1 Coinciden.
+2024-03-26 13:48:38,183 - INFO - Coinciden TOMS y GA para OrdenSO #0843249495
+2024-03-26 13:48:41,031 - INFO - ------------------------------------------------- START ------------------------------------------------------- 
+2024-03-26 13:48:41,032 - INFO - Índice: 1, Orden: SO #0843529764, Nombre: PEREZ BARGAS PAOLA LORENA, Id: 150806380015, Tel: 093777736, Bodega: B2B
+2024-03-26 13:48:42,070 - INFO - Parámetros: B2B
+2024-03-26 13:48:52,854 - INFO - Cliente PEREZ BARGAS PAOLA LORENA esta Activo
+2024-03-26 13:49:05,623 - INFO - Orden: SO #0843529764 Resultado Busqueda: Añadir Servicios SO #0843529764
+2024-03-26 13:49:10,656 - INFO - Resultado encontrado: SO #0843529764 : MO-PLATERAN B2B - Comercial-Storage Point-20230109-14:01:03
+2024-03-26 13:49:17,786 - INFO - Resultado encontrado: SO #0843529764 : MO-PLATERAN B2B - Comercial-Storage Point-20230109-14:01:03
+2024-03-26 13:49:24,967 - INFO - Resultado encontrado: SO #0843529764 : MO-PLATERAN B2B - Comercial-Storage Point-20230109-14:01:03
+2024-03-26 13:49:32,132 - INFO - Resultado encontrado: SO #0843529764 : MO-PLATERAN B2B - Comercial-Storage Point-20230109-14:01:03
+2024-03-26 13:49:43,657 - WARNING - No Coinciden la Cantidad de Productos de Toms 
+2024-03-26 13:49:46,412 - INFO - ------------------------------------------------- START ------------------------------------------------------- 
+2024-03-26 13:49:46,412 - INFO - Índice: 2, Orden: SO #0843102071, Nombre: ROMINA PAOLA DELONTE OROÑO, Id: 43288823, Tel: 099346393, Bodega: Telemarketing
+2024-03-26 13:51:08,999 - INFO - Seccion Iniciada
+2024-03-26 13:51:09,001 - INFO - ------------------------------------------------- START ------------------------------------------------------- 
+2024-03-26 13:51:09,001 - INFO - Índice: 0, Orden: SO #0843252917, Nombre: CARLOS WALBERTO CARRERE SILVERA, Id: 49005584, Tel: 098301417, Bodega: Telemarketing
+2024-03-26 13:51:10,276 - INFO - Parámetros: Telemarketing
+2024-03-26 13:51:21,956 - INFO - Cliente CARLOS WALBERTO CARRERE SILVERA esta Activo
+2024-03-26 13:51:33,844 - INFO - Orden: SO #0843252917 Resultado Busqueda: Añadir Servicios SO #0843252917
+2024-03-26 13:51:38,942 - INFO - Resultado encontrado: SO #0843252917 : MO-PLATERAN Telemarketing-Storage Point-20230109-12:46:25
+2024-03-26 13:51:42,108 - INFO - Resultado encontrado: SO #0843252917 : MO-PLATERAN Telemarketing-Storage Point-20230109-12:46:25
+2024-03-26 13:51:45,211 - INFO - Resultado encontrado: SO #0843252917 : MO-PLATERAN Telemarketing-Storage Point-20230109-12:46:25
+2024-03-26 13:51:48,369 - INFO - Resultado encontrado: SO #0843252917 : MO-PLATERAN Telemarketing-Storage Point-20230109-12:46:25
+2024-03-26 13:51:51,538 - INFO - Resultado encontrado: SO #0843252917 : MO-PLATERAN Telemarketing-Storage Point-20230109-12:46:25
+2024-03-26 13:51:54,647 - INFO - Resultado encontrado: SO #0843252917 : MO-PLATERAN Telemarketing-Storage Point-20230109-12:46:25
+2024-03-26 13:51:57,749 - INFO - Resultado encontrado: SO #0843252917 : MO-PLATERAN Telemarketing-Storage Point-20230109-12:46:25
+2024-03-26 13:52:00,921 - INFO - Resultado encontrado: SO #0843252917 : MO-PLATERAN Telemarketing-Storage Point-20230109-12:46:25
+2024-03-26 13:52:04,094 - INFO - Resultado encontrado: SO #0843252917 : MO-PLATERAN Telemarketing-Storage Point-20230109-12:46:25
+2024-03-26 13:52:07,203 - INFO - Resultado encontrado: SO #0843252917 : MO-PLATERAN Telemarketing-Storage Point-20230109-12:46:25
+2024-03-26 13:52:10,379 - INFO - Resultado encontrado: SO #0843252917 : MO-PLATERAN Telemarketing-Storage Point-20230109-12:46:25
+2024-03-26 13:52:13,481 - INFO - Resultado encontrado: SO #0843252917 : MO-PLATERAN Telemarketing-Storage Point-20230109-12:46:25
+2024-03-26 13:52:16,635 - INFO - Resultado encontrado: SO #0843252917 : MO-PLATERAN Telemarketing-Storage Point-20230109-12:46:25
+2024-03-26 13:52:19,753 - INFO - Resultado encontrado: SO #0843252917 : MO-PLATERAN Telemarketing-Storage Point-20230109-12:46:25
+2024-03-26 13:52:28,021 - INFO - Producto Toms 95USIM Cantidad: 1 | Producto GA 95USIM Cantidad: 1 Coinciden.
+2024-03-26 13:52:28,059 - INFO - Producto Toms TER4GXIARD932GY Cantidad: 1 | Producto GA TER4GXIARD932GY Cantidad: 1 Coinciden.
+2024-03-26 13:52:28,060 - INFO - Coinciden TOMS y GA para OrdenSO #0843252917
+2024-03-26 13:55:22,012 - INFO - Seccion Iniciada
+2024-03-26 13:55:22,015 - INFO - ------------------------------------------------- START ------------------------------------------------------- 
+2024-03-26 13:55:22,015 - INFO - Índice: 0, Orden: SO #0842942023, Nombre: LUIS MIGUEL ALMADA LISBOA, Id: 47974571, Tel: 096048699, Bodega: Telemarketing
+2024-03-26 13:55:23,168 - INFO - Parámetros: Telemarketing
+2024-03-26 13:55:34,119 - WARNING - Cliente: SO #0842942023 no esta Activo ni Activo Pendiente
+2024-03-26 13:55:36,849 - INFO - ------------------------------------------------- START ------------------------------------------------------- 
+2024-03-26 13:55:36,849 - INFO - Índice: 1, Orden: SO #0842942288, Nombre: WILKISON EDUARDO PERAZA DOS SANTOS, Id: 47765885, Tel: 092281354, Bodega: Telemarketing
+2024-03-26 13:55:37,491 - INFO - Parámetros: Telemarketing
+2024-03-26 13:55:48,651 - INFO - Cliente WILKISON EDUARDO PERAZA DOS SANTOS esta Activo
+2024-03-26 13:56:00,515 - INFO - Orden: SO #0842942288 Resultado Busqueda: Añadir Servicios SO #0842942288
+2024-03-26 13:56:05,584 - INFO - Resultado encontrado: SO #0842942288 : MO-PLATERAN Telemarketing-Storage Point-20230106-12:36:33
+2024-03-26 13:56:54,460 - INFO - Seccion Iniciada
+2024-03-26 13:56:54,462 - INFO - ------------------------------------------------- START ------------------------------------------------------- 
+2024-03-26 13:56:54,463 - INFO - Índice: 0, Orden: SO #0843134100, Nombre: LUCIA NICOL RIVERO MORAES, Id: 51183601, Tel: 094128077, Bodega: Telemarketing
+2024-03-26 13:56:55,652 - INFO - Parámetros: Telemarketing
+2024-03-26 13:57:07,748 - INFO - Cliente LUCIA NICOL RIVERO MORAES esta Activo
+2024-03-26 13:57:19,078 - INFO - Orden: SO #0843134100 Resultado Busqueda: Añadir Servicios SO #0843134100
+2024-03-26 13:57:28,152 - INFO - Resultado encontrado: SO #0843134100 : MO-PLATERAN Telemarketing-Storage Point-20230106-15:20:49
+2024-03-26 13:57:36,027 - INFO - Producto Toms 93USIM Cantidad: 1 | Producto GA 93USIM Cantidad: 1 Coinciden.
+2024-03-26 13:57:36,067 - INFO - Producto Toms TER4GNOKC01PLBL Cantidad: 1 | Producto GA TER4GNOKC01PLBL Cantidad: 1 Coinciden.
+2024-03-26 13:57:36,067 - INFO - Coinciden TOMS y GA para OrdenSO #0843134100
+2024-03-26 13:57:38,761 - INFO - ------------------------------------------------- START ------------------------------------------------------- 
+2024-03-26 13:57:38,762 - INFO - Índice: 1, Orden: SO #0843134252, Nombre: LUIS DARIO LIZASO PALERMO, Id: 45806336, Tel: 095889420, Bodega: Telemarketing
+2024-03-26 13:57:39,776 - INFO - Parámetros: Telemarketing
+2024-03-26 13:57:51,814 - INFO - Cliente LUIS DARIO LIZASO PALERMO esta Activo
+2024-03-26 13:58:04,142 - INFO - Orden: SO #0843134252 Resultado Busqueda: SO #0843134252
+2024-03-26 13:58:13,204 - INFO - Resultado encontrado: SO #0843134252 : MO-PLATERAN Telemarketing-Storage Point-20230106-15:36:06
+2024-03-26 13:58:21,098 - INFO - Producto Toms TER4GSAMA0332BK Cantidad: 1 | Producto GA TER4GSAMA0332BK Cantidad: 1 Coinciden.
+2024-03-26 13:58:21,099 - INFO - Coinciden TOMS y GA para OrdenSO #0843134252
+2024-03-26 13:58:23,809 - INFO - ------------------------------------------------- START ------------------------------------------------------- 
+2024-03-26 13:58:23,810 - INFO - Índice: 2, Orden: SO #0843457007, Nombre: EDGARDO CRISTIANI SOUTO, Id: 13585823, Tel: 096611954, Bodega: Telemarketing
+2024-03-26 13:58:24,817 - INFO - Parámetros: Telemarketing
+2024-03-26 13:58:37,502 - INFO - Cliente EDGARDO CRISTIANI SOUTO esta Activo
+2024-03-26 13:58:49,211 - INFO - Orden: SO #0843457007 Resultado Busqueda: Añadir Servicios SO #0843457007
+2024-03-26 13:58:58,291 - INFO - Resultado encontrado: SO #0843457007 : MO-PLATERAN Telemarketing-Storage Point-20230106-15:42:49
+2024-03-26 13:59:06,190 - INFO - Producto Toms 93USIM Cantidad: 1 | Producto GA 93USIM Cantidad: 1 Coinciden.
+2024-03-26 13:59:06,228 - INFO - Producto Toms TER4GNOKC01PLBL Cantidad: 1 | Producto GA TER4GNOKC01PLBL Cantidad: 1 Coinciden.
+2024-03-26 13:59:06,229 - INFO - Coinciden TOMS y GA para OrdenSO #0843457007
+2024-03-26 13:59:09,032 - INFO - ------------------------------------------------- START ------------------------------------------------------- 
+2024-03-26 13:59:09,033 - INFO - Índice: 3, Orden: SO #0843381175, Nombre: MONZON GONZALEZ WILDE DANOL, Id: 31434854, Tel: 094483978, Bodega: Telemarketing
+2024-03-26 13:59:10,035 - INFO - Parámetros: Telemarketing
+2024-03-26 13:59:21,510 - INFO - Cliente MONZON GONZALEZ WILDE DANOL esta Activo
+2024-03-26 13:59:33,035 - INFO - Orden: SO #0843381175 Resultado Busqueda: Añadir Servicios SO #0843381175
+2024-03-26 13:59:42,108 - INFO - Resultado encontrado: SO #0843381175 : MO-PLATERAN Telemarketing-Storage Point-20230109-15:44:52
+2024-03-26 13:59:49,990 - INFO - Producto Toms 93USIM Cantidad: 1 | Producto GA 93USIM Cantidad: 1 Coinciden.
+2024-03-26 13:59:49,991 - INFO - Coinciden TOMS y GA para OrdenSO #0843381175
+2024-03-26 13:59:52,632 - INFO - ------------------------------------------------- START ------------------------------------------------------- 
+2024-03-26 13:59:52,633 - INFO - Índice: 4, Orden: SO #0843381177, Nombre:  ANABEL CIANCIO, Id: 16123690, Tel: 094057396, Bodega: Telemarketing
+2024-03-26 13:59:53,635 - INFO - Parámetros: Telemarketing
+2024-03-26 14:00:05,129 - INFO - Cliente ANABEL CIANCIO esta Activo
+2024-03-26 14:00:17,604 - INFO - Orden: SO #0843381177 Resultado Busqueda: Añadir Servicios SO #0843381177
+2024-03-26 14:00:26,682 - INFO - Resultado encontrado: SO #0843381177 : MO-PLATERAN Telemarketing-Storage Point-20230109-15:45:00
+2024-03-26 14:00:34,480 - INFO - Producto Toms 93USIM Cantidad: 1 | Producto GA 93USIM Cantidad: 1 Coinciden.
+2024-03-26 14:00:34,481 - INFO - Coinciden TOMS y GA para OrdenSO #0843381177
+2024-03-26 14:00:37,144 - INFO - ------------------------------------------------- END ------------------------------------------------------- 
+2024-03-26 14:04:04,054 - INFO - Seccion Iniciada
+2024-03-26 14:04:04,056 - INFO - ------------------------------------------------- START ------------------------------------------------------- 
+2024-03-26 14:04:04,056 - INFO - Índice: 0, Orden: SO #0843378103, Nombre: NIEVES MARTINEZ RUBEN, Id: 15297604, Tel: 095466126, Bodega: Telemarketing
+2024-03-26 14:04:05,255 - INFO - Parámetros: Telemarketing
+2024-03-26 14:04:16,942 - INFO - Cliente NIEVES MARTINEZ RUBEN esta Activo
+2024-03-26 14:04:29,024 - INFO - Orden: SO #0843378103 Resultado Busqueda: SO #0843378103
+2024-03-26 14:14:32,203 - CRITICAL - Ocurrio un Error a la Hora de Buscar el resultado de la Orden SO #0843378103
+2024-03-26 14:14:35,433 - INFO - ------------------------------------------------- START ------------------------------------------------------- 
+2024-03-26 14:14:35,434 - INFO - Índice: 1, Orden: SO #0843378132, Nombre: CARMEN GONZALEZ, Id: 28305668, Tel: 095506298, Bodega: Telemarketing
+2024-03-26 14:14:36,529 - INFO - Parámetros: Telemarketing
+2024-03-26 14:14:48,093 - INFO - Cliente CARMEN GONZALEZ esta Activo
+2024-03-26 14:14:59,559 - INFO - Orden: SO #0843378132 Resultado Busqueda: SO #0843378132
+2024-03-26 14:16:09,250 - INFO - Seccion Iniciada
+2024-03-26 14:16:09,252 - INFO - ------------------------------------------------- START ------------------------------------------------------- 
+2024-03-26 14:16:09,252 - INFO - Índice: 0, Orden: SO #0843284934, Nombre: MARIA CRISTINA ALVAREZ CONDE, Id: 16274077, Tel: 094316390, Bodega: Telemarketing
+2024-03-26 14:16:10,493 - INFO - Parámetros: Telemarketing
+2024-03-26 14:16:22,244 - INFO - Cliente MARIA CRISTINA ALVAREZ CONDE esta Activo
+2024-03-27 10:08:04,824 - INFO - Seccion Iniciada
+2024-03-27 10:08:04,829 - INFO - ------------------------------------------------- START ------------------------------------------------------- 
+2024-03-27 10:08:04,829 - INFO - Índice: 0, Orden: SO #0842827131, Nombre:  LAURA VERONICA BARRANCO GUIMARAENS, Id: 42887397, Tel: 096422295, Bodega: Telemarketing
+2024-03-27 10:08:05,909 - INFO - Parámetros: Telemarketing
+2024-03-27 10:08:19,179 - INFO - Cliente LAURA VERONICA BARRANCO GUIMARAENS esta Activo
+2024-03-27 10:11:26,312 - INFO - Seccion Iniciada
+2024-03-27 10:11:26,313 - INFO - ------------------------------------------------- START ------------------------------------------------------- 
+2024-03-27 10:11:26,314 - INFO - Índice: 0, Orden: SO #0849291627, Nombre: Marianoel Lopez Davila, Id: 42406711, Tel: 094518472, Bodega: Telemarketing
+2024-03-27 10:11:27,456 - INFO - Parámetros: Telemarketing
+2024-03-27 10:11:40,411 - INFO - Cliente Marianoel Lopez Davila esta Activo
+2024-03-27 10:11:53,631 - INFO - Orden: SO #0849291627 Resultado Busqueda: SO #0849291627
+2024-03-27 10:12:28,597 - INFO - Seccion Iniciada
+2024-03-27 10:12:28,598 - INFO - ------------------------------------------------- START ------------------------------------------------------- 
+2024-03-27 10:12:28,598 - INFO - Índice: 0, Orden: SO #0849291627, Nombre: Marianoel Lopez Davila, Id: 42406711, Tel: 094518472, Bodega: Telemarketing
+2024-03-27 10:12:29,756 - INFO - Parámetros: Telemarketing
+2024-03-27 10:12:42,626 - INFO - Cliente Marianoel Lopez Davila esta Activo
+2024-03-27 10:12:55,162 - INFO - Orden: SO #0849291627 Resultado Busqueda: SO #0849291627
+2024-03-27 10:13:35,999 - INFO - Seccion Iniciada
+2024-03-27 10:13:36,001 - INFO - ------------------------------------------------- START ------------------------------------------------------- 
+2024-03-27 10:13:36,002 - INFO - Índice: 0, Orden: SO #0849291627, Nombre: Marianoel Lopez Davila, Id: 42406711, Tel: 094518472, Bodega: Telemarketing
+2024-03-27 10:13:37,163 - INFO - Parámetros: Telemarketing
+2024-03-27 10:13:50,128 - INFO - Cliente Marianoel Lopez Davila esta Activo
+2024-03-27 10:14:03,065 - INFO - Orden: SO #0849291627 Resultado Busqueda: SO #0849291627
+2024-03-27 10:25:43,543 - INFO - Seccion Iniciada
+2024-03-27 10:25:43,545 - INFO - ------------------------------------------------- START ------------------------------------------------------- 
+2024-03-27 10:25:43,546 - INFO - Índice: 0, Orden: SO #0849275737, Nombre: ALICIA JANET COSTA LOPEZ, Id: 51123716, Tel: 099043124, Bodega: Telemarketing
+2024-03-27 10:25:44,816 - INFO - Parámetros: Telemarketing
+2024-03-27 10:25:57,711 - INFO - Cliente ALICIA JANET COSTA LOPEZ esta Activo
+2024-03-27 10:26:10,148 - INFO - Orden: SO #0849275737 Resultado Busqueda: Añadir Servicios SO #0849275737
+2024-03-27 10:26:17,226 - INFO - Resultado encontrado: SO #0849275737 : MO-PLATERAN Telemarketing-Storage Point-20230113-11:26:44
+2024-03-27 10:26:25,112 - INFO - Producto Toms 94USIM Cantidad: 1 | Producto GA 94USIM Cantidad: 1 Coinciden.
+2024-03-27 10:26:25,113 - INFO - Coinciden TOMS y GA para OrdenSO #0849275737
+2024-03-27 10:26:27,761 - INFO - ------------------------------------------------- START ------------------------------------------------------- 
+2024-03-27 10:26:27,762 - INFO - Índice: 1, Orden: SO #0849522089, Nombre: SOFIA LATTIFFA MARQUEZ ROSAS , Id: 54541743, Tel: 094424969, Bodega: Telemarketing
+2024-03-27 10:26:28,683 - INFO - Parámetros: Telemarketing
+2024-03-27 10:26:41,411 - INFO - Cliente SOFIA LATTIFFA MARQUEZ ROSAS esta Activo
+2024-03-27 10:26:53,980 - INFO - Orden: SO #0849522089 Resultado Busqueda: Añadir Servicios SO #0849522089
+2024-03-27 10:27:01,045 - INFO - Resultado encontrado: SO #0849522089 : MO-PLATERAN Telemarketing-Storage Point-20230113-13:24:03
+2024-03-27 10:27:08,945 - INFO - Producto Toms TER4GAPP13128BK Cantidad: 1 | Producto GA TER4GAPP13128BK Cantidad: 1 Coinciden.
+2024-03-27 10:27:08,983 - INFO - Producto Toms 94USIM Cantidad: 1 | Producto GA 94USIM Cantidad: 1 Coinciden.
+2024-03-27 10:27:08,983 - INFO - Coinciden TOMS y GA para OrdenSO #0849522089
+2024-03-27 10:27:11,604 - INFO - ------------------------------------------------- START ------------------------------------------------------- 
+2024-03-27 10:27:11,605 - INFO - Índice: 2, Orden: SO #0849176378, Nombre: FERNANDO MACHIN GOJDYCZ, Id: 47092082, Tel: 098911851, Bodega: B2B
+2024-03-27 10:27:18,176 - INFO - Parámetros: B2B
+2024-03-27 10:27:27,726 - WARNING - No Existe Datos Asociados a: SO #0849176378
+2024-03-27 10:27:30,385 - INFO - ------------------------------------------------- START ------------------------------------------------------- 
+2024-03-27 10:27:30,386 - INFO - Índice: 3, Orden: SO #0849714555, Nombre: MARIA RITA DE LOS SANTOS , Id: 15670216, Tel: 094477930, Bodega: Telemarketing
+2024-03-27 10:27:36,918 - INFO - Parámetros: Telemarketing
+2024-03-27 10:27:49,511 - INFO - Cliente MARIA RITA DE LOS SANTOS esta Activo
+2024-03-27 10:28:02,424 - INFO - Orden: SO #0849714555 Resultado Busqueda: SO #0849714555
+2024-03-27 10:33:11,082 - CRITICAL - REDUNDANCIA CÍCLICA EN MO-PLATERAN SO #0849714555
+2024-03-27 10:33:13,799 - INFO - ------------------------------------------------- START ------------------------------------------------------- 
+2024-03-27 10:33:13,800 - INFO - Índice: 4, Orden: SO #0849291389, Nombre: GRACIELA IVONNE RIVERO IVONNE RIVERO, Id: 17414632, Tel: 093444316, Bodega: Telemarketing
+2024-03-27 10:33:14,767 - INFO - Parámetros: Telemarketing
+2024-03-27 10:33:27,595 - INFO - Cliente GRACIELA IVONNE RIVERO IVONNE RIVERO esta Activo
+2024-03-27 10:33:39,949 - INFO - Orden: SO #0849291389 Resultado Busqueda: SO #0849291389
+2024-03-27 10:33:47,023 - INFO - Resultado encontrado: SO #0849291389 : MO-PLATERAN Telemarketing-Storage Point-20230113-12:16:01
+2024-03-27 10:33:54,925 - INFO - Producto Toms TER4GMOTED20LSI Cantidad: 1 | Producto GA TER4GMOTED20LSI Cantidad: 1 Coinciden.
+2024-03-27 10:33:54,926 - INFO - Coinciden TOMS y GA para OrdenSO #0849291389
+2024-03-27 10:33:57,625 - INFO - ------------------------------------------------- END ------------------------------------------------------- 
+2024-03-27 10:34:15,638 - INFO - Seccion Iniciada
+2024-03-27 10:34:15,639 - INFO - ------------------------------------------------- START ------------------------------------------------------- 
+2024-03-27 10:34:15,640 - INFO - Índice: 0, Orden: SO #0849865877, Nombre: VFLVAIA RUBINO, Id: 215243010010, Tel: 095629939, Bodega: B2B
+2024-03-27 10:34:16,953 - INFO - Parámetros: B2B
+2024-03-27 10:34:29,005 - INFO - Cliente TUNISTAR SA esta Activo
+2024-03-27 10:38:23,134 - INFO - Seccion Iniciada
+2024-03-27 10:38:23,137 - INFO - ------------------------------------------------- START ------------------------------------------------------- 
+2024-03-27 10:38:23,137 - INFO - Índice: 0, Orden: SO #0849480394, Nombre: IBOPE MEDIA URUGUAY SA, Id: 213912360016, Tel: 095700096, Bodega: B2B
+2024-03-27 10:38:24,359 - INFO - Parámetros: B2B
+2024-03-27 10:38:36,467 - INFO - Cliente IBOPE MEDIA URUGUAY SA esta Activo
+2024-03-27 10:38:49,107 - INFO - Orden: SO #0849480394 Resultado Busqueda: Añadir Servicios SO #0849480394
+2024-03-27 10:38:56,167 - INFO - Resultado encontrado: SO #0849480394 : MO-PLATERAN B2B - Comercial-Storage Point-20230113-15:28:23
+2024-03-27 10:39:06,110 - INFO - Producto Toms TER4GSAMA0332BK Cantidad: 1 | Producto GA TER4GSAMA0332BK Cantidad: 1 Coinciden.
+2024-03-27 10:39:06,148 - INFO - Producto Toms TER4GSAMA1312BK Cantidad: 1 | Producto GA TER4GSAMA1312BK Cantidad: 1 Coinciden.
+2024-03-27 10:39:06,148 - INFO - Coinciden TOMS y GA para OrdenSO #0849480394
+2024-03-27 10:39:09,225 - INFO - ------------------------------------------------- START ------------------------------------------------------- 
+2024-03-27 10:39:09,225 - INFO - Índice: 1, Orden: SO #0849720366, Nombre: Andrea Rodriguez , Id: 43895428, Tel: 096798833, Bodega: Telemarketing
+2024-03-27 10:39:16,049 - INFO - Parámetros: Telemarketing
+2024-03-27 10:39:26,881 - WARNING - Cliente: SO #0849720366 no esta Activo ni Activo Pendiente
+2024-03-27 10:39:29,683 - INFO - ------------------------------------------------- START ------------------------------------------------------- 
+2024-03-27 10:39:29,684 - INFO - Índice: 2, Orden: SO #0849670554, Nombre: STEPHANIE LORENA FABRA PIRIZ, Id: 50941985, Tel: 095859929, Bodega: Telemarketing
+2024-03-27 10:39:30,596 - INFO - Parámetros: Telemarketing
+2024-03-27 10:39:43,302 - INFO - Cliente STEPHANIE LORENA FABRA PIRIZ esta Activo
+2024-03-27 10:39:55,967 - INFO - Orden: SO #0849670554 Resultado Busqueda: SO #0849670554
+2024-03-27 10:45:04,190 - CRITICAL - REDUNDANCIA CÍCLICA EN MO-PLATERAN SO #0849670554
+2024-03-27 10:45:06,880 - INFO - ------------------------------------------------- START ------------------------------------------------------- 
+2024-03-27 10:45:06,881 - INFO - Índice: 3, Orden: SO #0849128461, Nombre: GABRIEL RIVERO RIVERO , Id: 58148480, Tel: 099644934, Bodega: Telemarketing
+2024-03-27 10:45:07,874 - INFO - Parámetros: Telemarketing
+2024-03-27 10:45:20,705 - INFO - Cliente GABRIEL RIVERO RIVERO esta Activo
+2024-03-27 10:45:33,936 - INFO - Orden: SO #0849128461 Resultado Busqueda: Añadir Servicios SO #0849128461
+2024-03-27 10:45:41,010 - INFO - Resultado encontrado: SO #0849128461 : MO-PLATERAN Telemarketing-Storage Point-20230113-16:00:25
+2024-03-27 10:45:52,031 - INFO - Producto Toms 93USIM Cantidad: 1 | Producto GA 93USIM Cantidad: 1 Coinciden.
+2024-03-27 10:45:52,080 - INFO - Producto Toms TER4GMOTE2032GY Cantidad: 1 | Producto GA TER4GMOTE2032GY Cantidad: 1 Coinciden.
+2024-03-27 10:45:52,081 - INFO - Coinciden TOMS y GA para OrdenSO #0849128461
+2024-03-27 10:45:54,982 - INFO - ------------------------------------------------- START ------------------------------------------------------- 
+2024-03-27 10:45:54,983 - INFO - Índice: 4, Orden: SO #0849722680, Nombre: PEDRO YUTNIER LA O MENDOZA , Id: 63917787, Tel: 093707227, Bodega: Telemarketing
+2024-03-27 10:45:56,147 - INFO - Parámetros: Telemarketing
+2024-03-27 10:46:08,937 - INFO - Cliente PEDRO YUTNIER LA O MENDOZA esta Activo
+2024-03-27 10:46:21,230 - INFO - Orden: SO #0849722680 Resultado Busqueda: SO #0849722680
+2024-03-27 10:46:28,314 - INFO - Resultado encontrado: SO #0849722680 : MO-PLATERAN Telemarketing-Storage Point-20230113-16:52:31
+2024-03-27 10:48:05,376 - INFO - Seccion Iniciada
+2024-03-27 10:48:05,379 - INFO - ------------------------------------------------- START ------------------------------------------------------- 
+2024-03-27 10:48:05,380 - INFO - Índice: 0, Orden: SO #0849722680, Nombre: PEDRO YUTNIER LA O MENDOZA , Id: 63917787, Tel: 093707227, Bodega: Telemarketing
+2024-03-27 10:48:06,549 - INFO - Parámetros: Telemarketing
+2024-03-27 10:48:19,631 - INFO - Cliente PEDRO YUTNIER LA O MENDOZA esta Activo
+2024-03-27 10:48:32,212 - INFO - Orden: SO #0849722680 Resultado Busqueda: SO #0849722680
+2024-03-27 10:48:37,242 - INFO - Resultado encontrado: SO #0849722680 : MO-PLATERAN Telemarketing-Storage Point-20230113-16:52:31
+2024-03-27 10:48:47,259 - INFO - Producto Toms TER4GXIARD932GN Cantidad: 1 | Producto GA TER4GXIARD932GN Cantidad: 1 Coinciden.
+2024-03-27 10:48:47,260 - INFO - Coinciden TOMS y GA para OrdenSO #0849722680
+2024-03-27 10:48:49,933 - INFO - ------------------------------------------------- START ------------------------------------------------------- 
+2024-03-27 10:48:49,934 - INFO - Índice: 1, Orden: SO #0849291238, Nombre: YANIERO LEMUS DIMAR ARAMIS, Id: 12827408, Tel: 094185839, Bodega: Telemarketing
+2024-03-27 10:48:50,982 - INFO - Parámetros: Telemarketing
+2024-03-27 10:49:03,775 - INFO - Cliente YANIERO LEMUS DIMAR ARAMIS esta Activo
+2024-03-27 10:49:16,185 - INFO - Orden: SO #0849291238 Resultado Busqueda: SO #0849291238
+2024-03-27 10:51:04,115 - CRITICAL - REDUNDANCIA CÍCLICA EN MO-PLATERAN SO #0849291238
+2024-03-27 10:51:06,836 - INFO - ------------------------------------------------- START ------------------------------------------------------- 
+2024-03-27 10:51:06,837 - INFO - Índice: 2, Orden: SO #0849825239, Nombre: Gonzalo Mesa Flores, Id: 54914415, Tel: 096918474, Bodega: Telemarketing
+2024-03-27 10:51:07,888 - INFO - Parámetros: Telemarketing
+2024-03-27 10:51:18,715 - WARNING - Cliente: SO #0849825239 no esta Activo ni Activo Pendiente
+2024-03-27 10:51:21,367 - INFO - ------------------------------------------------- START ------------------------------------------------------- 
+2024-03-27 10:51:21,368 - INFO - Índice: 3, Orden: SO #0849291624, Nombre: MOLINARI LOPEZ NELLY ELENA, Id: 18612350, Tel: 094516891, Bodega: Telemarketing
+2024-03-27 10:51:22,094 - INFO - Parámetros: Telemarketing
+2024-03-27 10:51:34,485 - INFO - Cliente NELLY ELENA MOLINARI LOPEZ esta Activo
+2024-03-27 10:51:47,021 - INFO - Orden: SO #0849291624 Resultado Busqueda: SO #0849291624
+2024-03-27 10:51:52,058 - INFO - Resultado encontrado: SO #0849291624 : MO-PLATERAN Telemarketing-Storage Point-20230113-12:30:04
+2024-03-27 10:52:01,927 - INFO - Producto Toms TER4GTCL30332BK Cantidad: 1 | Producto GA TER4GTCL30332BK Cantidad: 1 Coinciden.
+2024-03-27 10:52:01,927 - INFO - Coinciden TOMS y GA para OrdenSO #0849291624
+2024-03-27 10:52:04,564 - INFO - ------------------------------------------------- START ------------------------------------------------------- 
+2024-03-27 10:52:04,564 - INFO - Índice: 4, Orden: SO #0849769770, Nombre: JOSE MARTIN ELIAS RIOS, Id: 48783953, Tel: 094408153, Bodega: Telemarketing
+2024-03-27 10:52:05,650 - INFO - Parámetros: Telemarketing
+2024-03-27 10:52:18,391 - INFO - Cliente Jose Elias esta Activo
+2024-03-27 10:52:29,960 - WARNING - No Existe Datos Asociados a la Orden: SO #0849769770
+2024-03-27 10:52:32,742 - INFO - ------------------------------------------------- END ------------------------------------------------------- 
+2024-03-27 10:52:50,943 - INFO - Seccion Iniciada
+2024-03-27 10:52:50,945 - INFO - ------------------------------------------------- START ------------------------------------------------------- 
+2024-03-27 10:52:50,945 - INFO - Índice: 0, Orden: SO #0849826747, Nombre: YURIMA ESPINOSA FUENTES, Id: 65809970, Tel: 097402812, Bodega: Telemarketing
+2024-03-27 10:52:52,304 - INFO - Parámetros: Telemarketing
+2024-03-27 10:53:05,361 - INFO - Cliente YURIMA ESPINOSA FUENTES esta Activo
+2024-03-27 10:53:17,463 - INFO - Orden: SO #0849826747 Resultado Busqueda: Añadir Servicios SO #0849826747
+2024-03-27 10:53:22,491 - INFO - Resultado encontrado: SO #0849826747 : MO-PLATERAN Telemarketing-Storage Point-20230113-13:10:15
+2024-03-27 10:53:32,754 - INFO - Producto Toms TER4GZTEA31LIGY Cantidad: 1 | Producto GA TER4GZTEA31LIGY Cantidad: 1 Coinciden.
+2024-03-27 10:53:32,794 - INFO - Producto Toms 95USIM Cantidad: 1 | Producto GA 95USIM Cantidad: 1 Coinciden.
+2024-03-27 10:53:32,794 - INFO - Coinciden TOMS y GA para OrdenSO #0849826747
+2024-03-27 10:53:35,573 - INFO - ------------------------------------------------- START ------------------------------------------------------- 
+2024-03-27 10:53:35,573 - INFO - Índice: 1, Orden: SO #0849826883, Nombre: Otilio Aquino Morris Rondon, Id: 63979777, Tel: 097636868, Bodega: Telemarketing
+2024-03-27 10:53:36,587 - INFO - Parámetros: Telemarketing
+2024-03-27 10:53:49,755 - INFO - Cliente OTILIO AQUINO MORRIS RONDON esta Activo
+2024-03-27 10:54:02,172 - INFO - Orden: SO #0849826883 Resultado Busqueda: Añadir Servicios SO #0849826883
+2024-03-27 10:54:07,205 - INFO - Resultado encontrado: SO #0849826883 : MO-PLATERAN Telemarketing-Storage Point-20230113-13:14:12
+2024-03-27 10:54:17,051 - INFO - Producto Toms TER4GNOKC01PLBL Cantidad: 1 | Producto GA TER4GNOKC01PLBL Cantidad: 1 Coinciden.
+2024-03-27 10:54:17,090 - INFO - Producto Toms 95USIM Cantidad: 1 | Producto GA 95USIM Cantidad: 1 Coinciden.
+2024-03-27 10:54:17,091 - INFO - Coinciden TOMS y GA para OrdenSO #0849826883
+2024-03-27 10:54:19,765 - INFO - ------------------------------------------------- START ------------------------------------------------------- 
+2024-03-27 10:54:19,766 - INFO - Índice: 2, Orden: SO #0849293182, Nombre: EVER NYRIA MENES SUANES, Id: 10452510, Tel: 093508252, Bodega: Telemarketing
+2024-03-27 10:54:20,876 - INFO - Parámetros: Telemarketing
+2024-03-27 10:54:33,906 - INFO - Cliente MENES SUANES EVER NYRIA esta Activo
+2024-03-27 10:54:46,511 - INFO - Orden: SO #0849293182 Resultado Busqueda: SO #0849293182
+2024-03-27 10:54:51,696 - WARNING - No se Encontraron Orden de Movimiento Para Orden: SO #0849293182
+2024-03-27 10:54:54,445 - INFO - ------------------------------------------------- START ------------------------------------------------------- 
+2024-03-27 10:54:54,446 - INFO - Índice: 3, Orden: SO #0849829282, Nombre: ALEXIS DIAZ GONZALEZ, Id: 65809986, Tel: 097102044, Bodega: Telemarketing
+2024-03-27 10:54:55,563 - INFO - Parámetros: Telemarketing
+2024-03-27 10:55:08,216 - INFO - Cliente ALEXIS DIAZ GONZALEZ esta Activo
+2024-03-27 10:55:20,811 - INFO - Orden: SO #0849829282 Resultado Busqueda: Añadir Servicios SO #0849829282
+2024-03-27 10:55:25,847 - INFO - Resultado encontrado: SO #0849829282 : MO-PLATERAN Telemarketing-Storage Point-20230113-14:37:09
+2024-03-27 10:55:37,137 - INFO - Producto Toms TER4GZTEA31LIGY Cantidad: 1 | Producto GA TER4GZTEA31LIGY Cantidad: 1 Coinciden.
+2024-03-27 10:55:37,175 - INFO - Producto Toms 95USIM Cantidad: 1 | Producto GA 95USIM Cantidad: 1 Coinciden.
+2024-03-27 10:55:37,175 - INFO - Coinciden TOMS y GA para OrdenSO #0849829282
+2024-03-27 10:55:39,910 - INFO - ------------------------------------------------- START ------------------------------------------------------- 
+2024-03-27 10:55:39,911 - INFO - Índice: 4, Orden: SO #0849467135, Nombre: OSORIO PACHECO JUAN LUIS Y OLIVERA PLA BRIAN NOEL, Id: 218832420013, Tel: 098168546, Bodega: B2B
+2024-03-27 10:55:46,701 - INFO - Parámetros: B2B
+2024-03-27 10:55:59,625 - INFO - Cliente OSORIO PACHECO JUAN LUIS Y OLIVERA PLA BRIAN NOEL esta Activo
+2024-03-27 10:56:12,411 - INFO - Orden: SO #0849467135 Resultado Busqueda: SO #0849467135
+2024-03-27 10:56:17,447 - INFO - Resultado encontrado: SO #0849467135 : MO-PLATERAN B2B - Comercial-Storage Point-20230113-09:55:47
+2024-03-27 10:56:27,267 - INFO - Producto Toms 94USIM Cantidad: 1 | Producto GA 94USIM Cantidad: 1 Coinciden.
+2024-03-27 10:56:27,267 - INFO - Coinciden TOMS y GA para OrdenSO #0849467135
+2024-03-27 10:56:29,927 - INFO - ------------------------------------------------- END ------------------------------------------------------- 
+2024-03-27 10:56:47,953 - INFO - Seccion Iniciada
+2024-03-27 10:56:47,954 - INFO - ------------------------------------------------- START ------------------------------------------------------- 
+2024-03-27 10:56:47,955 - INFO - Índice: 0, Orden: SO #0849871318, Nombre: SOCIEDAD ANONIMA DE OBRAS Y SERVICOS COPASA SUCURSAL DE URUGUA, Id: 218167770018, Tel: , Bodega: B2B
+2024-03-27 10:56:49,203 - INFO - Parámetros: B2B
+2024-03-27 10:57:01,280 - INFO - Cliente SOCIEDAD ANONIMA DE OBRAS Y SERVICOS COPASA SUCURSAL DE URUGUA esta Activo
+2024-03-27 10:57:13,928 - INFO - Orden: SO #0849871318 Resultado Busqueda: SO #0849871318
+2024-03-27 10:57:18,959 - INFO - Resultado encontrado: SO #0849871318 : MO-PLATERAN B2B - Comercial-Storage Point-20230113-10:16:02
+2024-03-27 10:57:28,800 - INFO - Producto Toms 93USIM Cantidad: 1 | Producto GA 93USIM Cantidad: 1 Coinciden.
+2024-03-27 10:57:28,801 - INFO - Coinciden TOMS y GA para OrdenSO #0849871318
+2024-03-27 10:57:31,512 - INFO - ------------------------------------------------- START ------------------------------------------------------- 
+2024-03-27 10:57:31,513 - INFO - Índice: 1, Orden: SO #0849127635, Nombre: TECHMEDICAL URUGUAY SA, Id: 216690050010, Tel: 094613974, Bodega: B2B
+2024-03-27 10:57:32,549 - INFO - Parámetros: B2B
+2024-03-27 10:57:44,419 - INFO - Cliente TECHMEDICAL URUGUAY SA esta Activo
+2024-03-27 10:57:57,100 - INFO - Orden: SO #0849127635 Resultado Busqueda: SO #0849127635
+2024-03-27 10:58:02,136 - INFO - Resultado encontrado: SO #0849127635 : MO-PLATERAN B2B - Comercial-Storage Point-20230113-13:47:31
+2024-03-27 10:58:11,991 - INFO - Producto Toms 94USIM Cantidad: 1 | Producto GA 94USIM Cantidad: 1 Coinciden.
+2024-03-27 10:58:11,991 - INFO - Coinciden TOMS y GA para OrdenSO #0849127635
+2024-03-27 10:58:14,795 - INFO - ------------------------------------------------- START ------------------------------------------------------- 
+2024-03-27 10:58:14,796 - INFO - Índice: 4, Orden: SO #0849428155, Nombre: THYSSENKRUPP ELEVADORES S.R.L., Id: 211162370014, Tel: 097660223, Bodega: B2B
+2024-03-27 10:58:15,917 - INFO - Parámetros: B2B
+2024-03-27 10:58:27,760 - INFO - Cliente TK ELEVADORES URUGUAY SRL esta Activo
+2024-03-27 10:58:40,846 - INFO - Orden: SO #0849428155 Resultado Busqueda: Añadir Servicios SO #0849428155
+2024-03-27 10:58:45,879 - INFO - Resultado encontrado: SO #0849428155 : MO-PLATERAN B2B - Comercial-Storage Point-20230113-15:18:08
+2024-03-27 10:58:55,667 - INFO - Producto Toms TER4GAPP13P25BK Cantidad: 1 | Producto GA TER4GAPP13P25BK Cantidad: 1 Coinciden.
+2024-03-27 10:58:55,667 - INFO - Coinciden TOMS y GA para OrdenSO #0849428155
+2024-03-27 10:58:58,480 - INFO - ------------------------------------------------- END ------------------------------------------------------- 
+2024-03-27 10:59:18,076 - INFO - Seccion Iniciada
+2024-03-27 10:59:18,077 - INFO - ------------------------------------------------- START ------------------------------------------------------- 
+2024-03-27 10:59:18,077 - INFO - Índice: 0, Orden: SO #0849671446, Nombre: LINSOR SA, Id: 215499290012, Tel: 093967423, Bodega: B2B
+2024-03-27 10:59:19,351 - INFO - Parámetros: B2B
+2024-03-27 10:59:31,430 - INFO - Cliente LINSOR SA esta Activo
+2024-03-27 10:59:43,823 - INFO - Orden: SO #0849671446 Resultado Busqueda: Añadir Servicios SO #0849671446
+2024-03-27 10:59:48,859 - INFO - Resultado encontrado: SO #0849671446 : MO-PLATERAN B2B - Comercial-Storage Point-20230113-15:26:03
+2024-03-27 10:59:58,745 - WARNING - Producto Toms TER4GSAMA5312BK Cantidad: 1 | Producto GA TER4GSAMA3312BK Cantidad: 2 No Coinciden.
+2024-03-27 10:59:58,784 - WARNING - Producto Toms TER4GSAMA3312BK Cantidad: 1 | Producto GA TER4GSAMA3312BK Cantidad: 2 No Coinciden.
+2024-03-27 10:59:58,931 - WARNING - No Coinciden la Cantidad de Productos de Toms : 2 y GA2
+2024-03-27 11:00:01,634 - INFO - ------------------------------------------------- START ------------------------------------------------------- 
+2024-03-27 11:00:01,635 - INFO - Índice: 1, Orden: SO #0849289385, Nombre: PAOLA NOELIA YANIBELLI CHARAMELO, Id: 44824173, Tel: 093987615, Bodega: Telemarketing
+2024-03-27 11:00:08,435 - INFO - Parámetros: Telemarketing
+2024-03-27 11:00:21,631 - INFO - Cliente PAOLA NOELIA YANIBELLI CHARAMELO esta Activo
+2024-03-27 11:00:34,370 - INFO - Orden: SO #0849289385 Resultado Busqueda: SO #0849289385
+2024-03-27 11:02:22,454 - CRITICAL - REDUNDANCIA CÍCLICA EN MO-PLATERAN SO #0849289385
+2024-03-27 11:02:25,280 - INFO - ------------------------------------------------- START ------------------------------------------------------- 
+2024-03-27 11:02:25,281 - INFO - Índice: 2, Orden: SO #0849671446, Nombre: LINSOR SA, Id: 215499290012, Tel: 093967423, Bodega: B2B
+2024-03-27 11:02:34,141 - INFO - Parámetros: B2B
+2024-03-27 11:02:46,330 - INFO - Cliente LINSOR SA esta Activo
+2024-03-27 11:02:59,650 - INFO - Orden: SO #0849671446 Resultado Busqueda: Añadir Servicios SO #0849671446
+2024-03-27 11:03:04,692 - INFO - Resultado encontrado: SO #0849671446 : MO-PLATERAN B2B - Comercial-Storage Point-20230113-15:26:03
+2024-03-27 11:03:14,616 - WARNING - Producto Toms TER4GSAMA5312BK Cantidad: 1 | Producto GA TER4GSAMA3312BK Cantidad: 2 No Coinciden.
+2024-03-27 11:03:14,661 - WARNING - Producto Toms TER4GSAMA3312BK Cantidad: 1 | Producto GA TER4GSAMA3312BK Cantidad: 2 No Coinciden.
+2024-03-27 11:03:14,811 - WARNING - No Coinciden la Cantidad de Productos de Toms : 2 y GA2
+2024-03-27 11:03:18,073 - INFO - ------------------------------------------------- START ------------------------------------------------------- 
+2024-03-27 11:03:18,074 - INFO - Índice: 3, Orden: SO #0849480259, Nombre: FLUSOR S.A., Id: 216213490012, Tel: 095397487, Bodega: B2B
+2024-03-27 11:03:19,351 - INFO - Parámetros: B2B
+2024-03-27 11:03:31,501 - INFO - Cliente FLUSOR S.A. esta Activo
+2024-03-27 11:03:44,947 - INFO - Orden: SO #0849480259 Resultado Busqueda: Añadir Servicios SO #0849480259
+2024-03-27 11:03:49,977 - INFO - Resultado encontrado: SO #0849480259 : MO-PLATERAN B2B - Comercial-Storage Point-20230113-15:18:27
+2024-03-27 11:04:00,465 - INFO - Producto Toms TER4GAPP14PR2BK Cantidad: 2 | Producto GA TER4GAPP14PR2BK Cantidad: 2 Coinciden.
+2024-03-27 11:04:00,465 - INFO - Coinciden TOMS y GA para OrdenSO #0849480259
+2024-03-27 11:04:03,276 - INFO - ------------------------------------------------- START ------------------------------------------------------- 
+2024-03-27 11:04:03,276 - INFO - Índice: 4, Orden: SO #0849670617, Nombre: SHIRLEY TERESA PERALTA MIERES, Id: 12085048, Tel: 094280988, Bodega: Telemarketing
+2024-03-27 11:04:09,401 - ERROR - Error en Cambio de Parámetros: ("'NoneType' object has no attribute 'text'",)

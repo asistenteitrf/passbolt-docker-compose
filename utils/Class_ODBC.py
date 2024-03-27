@@ -84,8 +84,7 @@ class ClassMySQL:
                               AND TBBodega IN ('Telemarketing','B2B')
                               ORDER BY TBProducto DESC
         '''% (order)
-        )
-        print(datos)
+        )        
         insertobjets.clear()
         if(datos[0]==True):  
             list_imei=[]  

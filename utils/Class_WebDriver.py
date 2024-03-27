@@ -58,7 +58,13 @@ class WebDriver(): #CLASE QUE MANIPULA LOS ELEMENTOS WEB Y FUNCIONES
     #IMPLICITYWAITH DE 180 SEGUNDOS QUE SI QUIERES CONFIGURAR MAS SEGUNDOS EN CONFIG LA VARIEBLE TIMESLEEP
     def Implicit_Waith(self,element): 
                wait = WebDriverWait(driver, TIMES_SLEEP)
-               wait.until(EC.presence_of_element_located((By.XPATH, element)))   
+               wait.until(EC.presence_of_element_located((By.XPATH, element))) 
+#------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    #SCROLL A LAS PAGINAS SEGUN EL ELEMENTO
+    def scrollIntoView(self,elemet):
+        result= driver.find_element(By.XPATH,elemet)
+        driver.execute_script('arguments[0].scrollIntoView(true)',result)
+        time.sleep(2)          
 #------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
     #DEBUELVE LA CANTIDAD DE FILAS DE UNA TABLA
     def RowCount(self,table): 
@@ -67,7 +73,7 @@ class WebDriver(): #CLASE QUE MANIPULA LOS ELEMENTOS WEB Y FUNCIONES
 #------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------      
     #SCREENSHOT: EL PARÁMETRO QUE SE LE ENVIA EN EL NÚMERO DE ORDEN
     def Screenshot(self,name):
-        driver.save_screenshot(os.getcwd()+ ScreenShot_Path +str(name)+".png")       
+        driver.save_screenshot(ScreenShot_Path +str(name)+".png")       
 #------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------               
     #CERRAMOS EL DRIVER
     def  Close(self):#CERRAMOS EL DRIVER WEB
@@ -75,15 +81,15 @@ class WebDriver(): #CLASE QUE MANIPULA LOS ELEMENTOS WEB Y FUNCIONES
 #------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------        
     #MÉTODO QUE SE ENCARGA DE INICIAR SECCIÓN
     def  Open_Section(self):
-        #api = PassboltAPI(KEY_ID)
-        #result =api.Get_Resource_Info(BotToExecute) ##Recursoq eu Buscamos es por el Nombre
+        api = PassboltAPI(KEY_ID)
+        result =api.Get_Resource_Info(BotToExecute) ##Recursoq eu Buscamos es por el Nombre
         try:
             self.GetDriver(ADFS[0])             #Open Index Page TOMS Web with          
             self.Click(ADFS[1])                 #Click To Goin Loggin Page
-            self.Fill_Text_Box(ADFS[2],UserToms)  #Tipping User
-            self.Fill_Text_Box(ADFS[3],PassToms)  #Tipping Pass           
-            #self.Fill_Text_Box(ADFS[2],result['user_resource'])  #Tipping User
-            #self.Fill_Text_Box(ADFS[3],result['pass_resource'])  #Tipping Pass
+            #self.Fill_Text_Box(ADFS[2],UserToms)  #Tipping User
+            #self.Fill_Text_Box(ADFS[3],PassToms)  #Tipping Pass           
+            self.Fill_Text_Box(ADFS[2],result['user_resource'])  #Tipping User
+            self.Fill_Text_Box(ADFS[3],result['pass_resource'])  #Tipping Pass
             self.Click(ADFS[4])                 #Click Loggin Page
             #logguin Control
             try:
@@ -160,10 +166,10 @@ class WebDriver(): #CLASE QUE MANIPULA LOS ELEMENTOS WEB Y FUNCIONES
                            flags=1  
                            client_name=driver.find_element(By.XPATH,"//tbody/tr["+str(row+1)+"]/td[2]/div[1]/div[1]/a").text # Obtenemos el Nombre
                            client_status=driver.find_element(By.XPATH," //table/tbody/tr["+str(row+1)+"]/td[4]/div/div/div/span[2]").text   #Obtenemos el Estado
-                           if (client_status=='Activo' or  client_status=='Activación pendiente') and (client_name.strip()==name_clientga.strip()):# Esta Activo  
-                                 
-                                 self.click_when_clickable("//tbody/tr["+str(row+1)+"]/td[2]/div[1]/div[1]/a[1]")                                                                           
+                           if (client_status=='Activo' or  client_status=='Activación pendiente'):# Esta Activo  
+                                 self.scrollIntoView("//tbody/tr["+str(row+1)+"]/td[2]/div[1]/div[1]/a[1]")                                                                           
                                  logger.log_info("Cliente "+str(client_name)+ " esta " + str(client_status))                              
+                                 self.click_when_clickable("//tbody/tr["+str(row+1)+"]/td[2]/div[1]/div[1]/a[1]")
                                  return True                                              
                        if(flags==1): #No Esta Activo
                            self.Screenshot(str(array['Orden']))
@@ -225,12 +231,11 @@ class WebDriver(): #CLASE QUE MANIPULA LOS ELEMENTOS WEB Y FUNCIONES
         x =1
         time.sleep(5)
         while x < 100: # intentar encontrar el elemento 1 segundos, sino, continua con el código
-             try:     
-                 # Hacer scroll hasta el final de la página
-                 driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")            
+             try:                  
                  orden_movimiento = self.get_text(ADFS[31])                  
                  if (orden_movimiento!="" and  ("MO-PLATERAN" in orden_movimiento)):
                      logger.log_info("Resultado encontrado: "+ str(array['Orden']) + " : " + str(orden_movimiento)) 
+                     self.scrollIntoView("//div[contains(text(),'Información de orden')]")
                      self.click_when_clickable("//tr[16]/td[4]/div/table/tbody/tr/td/div/div/a")                    
                      return True
                  else:
@@ -241,10 +246,11 @@ class WebDriver(): #CLASE QUE MANIPULA LOS ELEMENTOS WEB Y FUNCIONES
                      return False   
              except: # en caso de no encontrarlo                      
                  x += 1 # Aumenta el contador
-                 time.sleep(2) 
+                 time.sleep(1) 
         if (x==100):
-              self.Screenshot(str(array['Orden']))
-              logger.log_critical("Ocurrio un Error a la Hora de Buscar el resultado de la Orden " + str(array['Orden']))
+              self.scrollIntoView("/html[1]/body[1]/div[6]/div[3]/div[2]")
+              self.Screenshot(str(array['Orden']))              
+              logger.log_critical("REDUNDANCIA CÍCLICA EN MO-PLATERAN " + str(array['Orden']))
               CNX.SET_LOG_TBRegistro(array['Orden'],"ERROR","REDUNDANCIA CÍCLICA EN MO-PLATERAN")
               CNX.SET_TOMADO(str(array['Orden']))
               return False
@@ -297,7 +303,7 @@ class WebDriver(): #CLASE QUE MANIPULA LOS ELEMENTOS WEB Y FUNCIONES
                              return False                     
             except: # en caso de no encontrarlo                      
                  x += 1 # Aumenta el contador
-                 time.sleep(5)   
+                 time.sleep(1)   
         if (x==100):
               self.Screenshot(str(array['Orden']))
               logger.log_critical("Inesperado en Hacer la Comparación de los productos de la Orden " + str(array['Orden']))
